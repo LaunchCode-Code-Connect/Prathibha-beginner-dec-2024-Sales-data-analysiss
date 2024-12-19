@@ -1,0 +1,1001 @@
+Order ID,Date,Product ID,Product Name,Category,Quantity Sold,Price per Unit,Customer ID,Customer Age,Customer Gender,Region,Total Sales Amount
+d12a0955,5/25/2024,P6136,firm,Groceries,5,46.56,C1460,65,Male,North America,232.8
+d0d0bc01,1/4/2024,P2733,community,Groceries,10,408.24,C1049,23,Other,North America,4082.4
+dc50f91b,4/12/2024,P9496,friend,Toys,5,355.38,C9674,51,Other,Asia,1776.9
+75e69090,5/19/2024,P6820,because,Furniture,9,153.64,C3773,56,Male,Asia,1382.76
+f1850f2d,1/31/2024,P4080,family,Clothing,5,221.02,C3947,26,Female,South America,1105.1
+1f4f14d4,6/4/2024,P4165,move,Electronics,6,385.5,C4976,23,Male,South America,2313
+1639f996,10/8/2024,P9362,scientist,Electronics,10,388.03,C7884,29,Female,Asia,3880.3
+24f6821d,10/20/2024,P7521,dog,Electronics,4,358.98,C5617,39,Female,South America,1435.92
+509c8ed4,6/18/2024,P7915,population,Groceries,3,45.07,C9699,26,Male,South America,135.21
+bcbfc198,6/11/2024,P5655,three,Toys,4,108.79,C3245,70,Other,South America,435.16
+76f90eef,2/7/2024,P3110,discussion,Furniture,4,453.48,C8659,43,Male,Europe,1813.92
+8125564d,8/25/2024,P9266,her,Electronics,10,461.84,C4534,37,Female,Africa,4618.4
+80d4eb42,8/26/2024,P5675,three,Groceries,1,97.18,C8123,24,Male,Asia,97.18
+2.91E+13,9/22/2024,P3947,way,Toys,9,109.74,C3331,40,Female,South America,987.66
+4551fc01,10/30/2024,P5230,join,Clothing,3,439.83,C2278,30,Female,South America,1319.49
+151d7bae,2/19/2024,P5621,present,Groceries,4,305.38,C4898,60,Female,Africa,1221.52
+c6dbd50a,8/21/2024,P9869,truth,Furniture,3,489.4,C7187,69,Female,Africa,1468.2
+8b745cb1,6/5/2024,P8632,chance,Groceries,1,208.81,C2568,64,Other,South America,208.81
+23ac9f64,10/19/2024,P3013,hit,Toys,1,226.89,C8171,57,Male,Africa,226.89
+a8769d3a,3/30/2024,P2074,near,Clothing,6,413.34,C3085,50,Male,South America,2480.04
+26efb6fa,9/12/2024,P1753,court,Groceries,8,216.04,C6430,64,Male,North America,1728.32
+f4dd2c43,8/25/2024,P1453,attack,Toys,10,480.82,C1582,39,Female,Europe,4808.2
+523ec030,4/28/2024,P5256,laugh,Furniture,1,420.62,C4170,68,Female,Africa,420.62
+cc492085,8/8/2024,P6818,system,Clothing,5,137.75,C7581,53,Other,North America,688.75
+7bbc2c6f,7/28/2024,P1105,partner,Groceries,4,260.02,C5479,67,Female,Africa,1040.08
+26ffe37a,1/18/2024,P7875,seem,Furniture,9,497.89,C4679,68,Male,Europe,4481.01
+4cf65542,8/5/2024,P2190,law,Clothing,4,240.54,C6774,31,Other,Asia,962.16
+64b6a545,4/19/2024,P8817,visit,Clothing,5,350.68,C3068,34,Other,Asia,1753.4
+27c1c3f7,4/1/2024,P2744,owner,Groceries,1,364.7,C3562,24,Male,Asia,364.7
+e83f7965,11/13/2024,P1275,six,Toys,10,322.53,C4537,26,Other,Asia,3225.3
+b2346a0b,2/11/2024,P4375,begin,Furniture,7,252.66,C6676,51,Male,Europe,1768.62
+4a5cdca4,1/3/2024,P9022,star,Groceries,7,58.14,C4456,60,Female,Europe,406.98
+95f66f3e,6/20/2024,P4016,form,Furniture,4,171.88,C9124,62,Other,Africa,687.52
+5c77ec55,8/13/2024,P2085,watch,Furniture,6,426.9,C9009,51,Other,Asia,2561.4
+5e9078d3,1/1/2024,P3128,various,Furniture,1,226.6,C9675,59,Male,South America,226.6
+22e68b1c,5/1/2024,P2116,difficult,Furniture,1,350.95,C5144,35,Female,North America,350.95
+a77a2f65,2/29/2024,P8584,truth,Furniture,8,255.19,C2490,64,Other,Africa,2041.52
+6194ad45,1/14/2024,P5972,federal,Toys,10,375.56,C2828,64,Male,South America,3755.6
+4c09d8ab,6/3/2024,P5495,hand,Clothing,10,56.44,C3079,27,Female,Asia,564.4
+34610a87,7/15/2024,P8561,shoulder,Toys,9,220.51,C1571,24,Other,North America,1984.59
+6c908f10,5/15/2024,P1347,enjoy,Furniture,1,97.19,C4507,36,Other,Africa,97.19
+c44f1a0f,1/20/2024,P9217,agreement,Clothing,1,472.21,C7885,18,Female,North America,472.21
+074be1ac,6/30/2024,P4985,lawyer,Clothing,1,302.56,C7739,46,Male,South America,302.56
+17aae52b,3/10/2024,P3919,soon,Groceries,1,246.04,C4523,34,Other,Africa,246.04
+156b2a41,2/28/2024,P2570,become,Toys,2,321.6,C2891,25,Other,North America,643.2
+7650920,7/13/2024,P1269,land,Electronics,7,407.76,C4003,49,Male,Africa,2854.32
+4ecb7522,7/20/2024,P8544,care,Clothing,1,216.26,C3712,69,Other,Europe,216.26
+0dcdb22e,6/15/2024,P9692,someone,Furniture,10,22.74,C4133,50,Male,South America,227.4
+9eba4932,1/17/2024,P7897,vote,Groceries,5,399.36,C5025,68,Male,Asia,1996.8
+31197a6b,7/1/2024,P9025,great,Groceries,10,296.77,C4238,61,Other,North America,2967.7
+e0a7bf2f,11/28/2024,P9465,form,Toys,10,98.66,C2830,48,Female,Africa,986.6
+f0fe52fb,7/15/2024,P5486,plan,Clothing,7,65.99,C8948,28,Female,Africa,461.93
+62c2c0af,1/4/2024,P7383,measure,Electronics,3,248.07,C4587,51,Female,South America,744.21
+6ea6ac06,4/18/2024,P7418,remain,Groceries,5,384.26,C7392,63,Female,Europe,1921.3
+5fa9a7c8,7/9/2024,P9896,deal,Clothing,6,369.64,C4428,60,Other,North America,2217.84
+20a91c17,6/26/2024,P5497,leader,Furniture,9,48.71,C7619,48,Female,Asia,438.39
+c2ac943b,7/4/2024,P2935,bed,Groceries,1,295.25,C5965,56,Other,South America,295.25
+eb41319c,3/13/2024,P1757,find,Toys,6,407.62,C6796,62,Other,North America,2445.72
+cb98b24b,10/9/2024,P8628,positive,Groceries,8,345.9,C5249,25,Female,Europe,2767.2
+99a3665e,2/8/2024,P1609,respond,Clothing,4,17.55,C3998,42,Female,Africa,70.2
+bafb8c8d,6/20/2024,P7999,job,Clothing,5,397.24,C1374,51,Female,Africa,1986.2
+ea4553ac,11/17/2024,P5225,human,Groceries,6,28.45,C4576,49,Female,South America,170.7
+bfa3529d,9/7/2024,P7598,increase,Groceries,8,342.62,C7770,46,Male,North America,2740.96
+69a2d8d7,4/17/2024,P9165,alone,Groceries,2,117.1,C2103,47,Male,Asia,234.2
+d2c3047c,5/8/2024,P5012,put,Furniture,8,139.81,C6362,23,Male,South America,1118.48
+79478994,5/25/2024,P7942,financial,Furniture,8,193.01,C2448,36,Male,Europe,1544.08
+e4dd9fee,10/31/2024,P9228,open,Toys,2,329.33,C3632,32,Other,Europe,658.66
+424f7fe5,3/7/2024,P7618,two,Toys,7,477.96,C7778,53,Male,North America,3345.72
+b0895c92,4/24/2024,P4385,lose,Toys,5,302.04,C7536,57,Male,Asia,1510.2
+f2ba9e09,11/22/2024,P1995,first,Furniture,5,434.04,C7463,38,Other,Europe,2170.2
+41270ca0,9/17/2024,P9917,involve,Electronics,2,402.05,C7514,46,Other,South America,804.1
+1e5201d0,1/30/2024,P4892,art,Toys,3,342.44,C4784,58,Male,Europe,1027.32
+748aee27,11/2/2024,P3533,available,Groceries,6,223.93,C5702,63,Other,Asia,1343.58
+e494fd33,10/30/2024,P9935,learn,Groceries,10,108.83,C2168,43,Female,Africa,1088.3
+1962763a,5/4/2024,P9847,relationship,Electronics,6,285.88,C4420,19,Male,Asia,1715.28
+f6070f85,5/8/2024,P9533,southern,Groceries,3,264.01,C5793,65,Female,South America,792.03
+5ed16d57,8/23/2024,P7955,yourself,Groceries,8,34.93,C5370,64,Other,Asia,279.44
+f03fe395,3/29/2024,P3385,use,Electronics,9,175.96,C2918,61,Female,Europe,1583.64
+7cd648a8,2/4/2024,P2569,another,Electronics,5,32.29,C6575,27,Other,South America,161.45
+247b9084,7/12/2024,P9859,well,Electronics,2,291.22,C6762,21,Other,Europe,582.44
+bbbbdff4,9/14/2024,P1400,statement,Toys,7,363.01,C5314,63,Other,Europe,2541.07
+ad35bbd5,3/6/2024,P3288,position,Toys,8,461.18,C7584,50,Male,Europe,3689.44
+ab189aad,2/23/2024,P1454,test,Clothing,4,220.45,C2596,64,Male,Asia,881.8
+71a9628c,12/2/2024,P9598,phone,Clothing,3,235.78,C7062,58,Other,South America,707.34
+c468fc84,11/7/2024,P3822,hair,Groceries,3,215.11,C6645,40,Other,Africa,645.33
+5531aa2e,5/2/2024,P1854,air,Electronics,7,465.09,C9102,39,Male,Europe,3255.63
+75b5d8a5,2/7/2024,P3135,maintain,Groceries,1,317.53,C6760,27,Other,South America,317.53
+fe0074f4,11/12/2024,P5255,contain,Toys,5,321.99,C6118,31,Male,North America,1609.95
+b735e0a2,4/15/2024,P7638,tend,Toys,4,164.71,C9241,49,Female,Asia,658.84
+c86d651a,3/18/2024,P6202,financial,Groceries,8,297.2,C4363,29,Male,North America,2377.6
+20a4f956,1/27/2024,P2519,shoulder,Clothing,2,352.18,C4917,43,Male,Asia,704.36
+8c3a137f,2/5/2024,P9536,item,Furniture,10,111.81,C9646,65,Male,Asia,1118.1
+664cb920,6/1/2024,P5681,mouth,Toys,1,156.86,C8343,64,Male,North America,156.86
+db4f8065,7/13/2024,P6080,herself,Clothing,10,210.27,C5820,48,Other,North America,2102.7
+bd361cd8,6/16/2024,P4163,it,Clothing,4,413.59,C4867,42,Other,Asia,1654.36
+c4559aaf,1/2/2024,P1447,finally,Toys,7,336.36,C1356,19,Female,Africa,2354.52
+ca87be21,6/1/2024,P8864,nothing,Toys,9,470.57,C5153,29,Female,North America,4235.13
+cf3d6ac5,4/21/2024,P1956,and,Groceries,5,163.78,C3404,27,Male,Asia,818.9
+95236740,10/22/2024,P6996,after,Furniture,6,457.85,C8166,26,Other,North America,2747.1
+dda2702b,11/1/2024,P4532,central,Groceries,6,26.32,C8652,70,Female,South America,157.92
+f9496478,2/22/2024,P9796,term,Furniture,3,493.3,C7064,58,Female,Africa,1479.9
+7a75f292,1/28/2024,P3600,huge,Clothing,3,497.96,C6949,35,Female,South America,1493.88
+9b49586f,5/11/2024,P7929,air,Electronics,4,163.58,C6210,53,Female,South America,654.32
+644dd708,11/29/2024,P8606,discussion,Groceries,7,381.78,C6698,68,Female,North America,2672.46
+3c92f67f,3/21/2024,P9429,will,Furniture,2,411.75,C4096,22,Female,Asia,823.5
+41e990c5,8/8/2024,P8677,piece,Groceries,4,344.04,C3465,59,Other,Europe,1376.16
+3da25b51,7/17/2024,P3862,administration,Toys,1,31.71,C3649,42,Female,Africa,31.71
+11967f76,8/6/2024,P4005,admit,Electronics,9,72.96,C5918,38,Male,South America,656.64
+2e4b2ff9,11/20/2024,P7656,theory,Furniture,6,144.47,C9994,27,Female,South America,866.82
+cdf7f64e,3/6/2024,P4166,attention,Electronics,10,186.12,C2412,62,Male,Asia,1861.2
+9cc5a26c,2/21/2024,P5637,magazine,Groceries,1,452.3,C9549,63,Female,Africa,452.3
+60882149,9/9/2024,P3159,magazine,Furniture,3,316.03,C3898,53,Other,South America,948.09
+0ca51263,4/23/2024,P6344,style,Toys,6,108.41,C3878,37,Other,Africa,650.46
+5b3047ed,10/5/2024,P2414,us,Groceries,10,466.22,C9671,47,Male,Asia,4662.2
+40ffd600,1/17/2024,P1999,standard,Electronics,4,406.77,C2189,62,Other,Africa,1627.08
+c6d48b62,8/8/2024,P1760,show,Groceries,7,62.4,C3168,35,Female,North America,436.8
+c1c8586c,1/9/2024,P9181,table,Furniture,7,107.95,C1570,38,Female,Africa,755.65
+4f7523ed,6/30/2024,P9662,same,Clothing,6,263.9,C2057,27,Other,Europe,1583.4
+888cfc41,6/12/2024,P8692,travel,Clothing,7,185.23,C5723,28,Other,South America,1296.61
+d48a181f,11/20/2024,P4030,soldier,Clothing,2,465.8,C8422,21,Male,Asia,931.6
+cecdef30,4/23/2024,P3698,health,Clothing,6,193.83,C7906,36,Male,North America,1162.98
+3765a17c,11/27/2024,P8471,either,Furniture,5,434.86,C7164,42,Female,Europe,2174.3
+29d6f20f,2/6/2024,P1325,hand,Groceries,3,169.28,C6810,27,Female,Africa,507.84
+bbebbb61,6/9/2024,P9589,operation,Electronics,2,187.08,C7063,48,Female,Europe,374.16
+a1f55ac1,8/22/2024,P8530,lose,Furniture,8,89.38,C2597,41,Other,North America,715.04
+8c7773cd,9/6/2024,P8914,picture,Clothing,6,150.47,C3000,63,Female,Africa,902.82
+b86771bf,4/8/2024,P2227,provide,Groceries,3,471.62,C7986,20,Male,Asia,1414.86
+6ec2a24d,5/25/2024,P9335,man,Toys,3,243.16,C3911,50,Female,North America,729.48
+269ffa8d,2/15/2024,P3022,test,Electronics,6,452.54,C5110,31,Female,Africa,2715.24
+060cbafb,2/12/2024,P1427,they,Clothing,1,129.28,C3323,21,Other,Asia,129.28
+9c57445b,8/6/2024,P6644,his,Toys,5,46.97,C4306,30,Male,Europe,234.85
+62de6540,3/23/2024,P5912,process,Toys,6,161.15,C9178,50,Male,South America,966.9
+fbf62711,8/8/2024,P4945,into,Clothing,1,70.14,C8540,31,Female,Asia,70.14
+cef5c393,3/6/2024,P7768,also,Groceries,8,402.33,C9407,63,Male,South America,3218.64
+1ac7294b,8/1/2024,P4436,Democrat,Furniture,7,459.77,C1630,67,Male,Asia,3218.39
+4506b0ea,3/29/2024,P5579,charge,Toys,9,122.6,C4486,51,Female,Asia,1103.4
+46c191fb,2/19/2024,P8415,test,Furniture,8,469.92,C7007,65,Female,Europe,3759.36
+fb540bde,10/24/2024,P8463,her,Furniture,8,79.3,C2345,54,Other,Europe,634.4
+43ffc087,6/1/2024,P4644,board,Groceries,6,429.27,C2695,46,Other,South America,2575.62
+25512d71,3/29/2024,P2502,happy,Toys,1,281.22,C5572,64,Male,South America,281.22
+ba5fdaa4,6/30/2024,P2396,southern,Clothing,5,318.97,C2319,26,Female,North America,1594.85
+0ba80507,7/2/2024,P4020,situation,Toys,10,221.57,C7774,21,Female,Africa,2215.7
+777d0eff,1/24/2024,P7289,something,Clothing,1,37.06,C2271,69,Other,South America,37.06
+27a41600,4/27/2024,P2092,small,Toys,6,350.26,C2615,66,Other,North America,2101.56
+73fba797,6/30/2024,P4776,choose,Electronics,10,18.96,C4158,57,Male,North America,189.6
+33596d7e,5/6/2024,P4042,protect,Groceries,7,196.15,C8775,24,Other,Asia,1373.05
+20aeb197,6/19/2024,P5045,later,Toys,9,483.49,C3160,52,Female,North America,4351.41
+ee397582,2/19/2024,P8653,certain,Clothing,1,90.18,C3529,70,Male,South America,90.18
+fc18f975,2/3/2024,P6345,claim,Clothing,2,58.13,C9119,40,Male,Europe,116.26
+924dbdd4,12/2/2024,P6925,public,Groceries,6,151.8,C1673,45,Male,Africa,910.8
+7fd0f820,2/21/2024,P3677,pretty,Furniture,9,221.12,C3252,30,Female,North America,1990.08
+df9d6a39,9/5/2024,P3524,whole,Groceries,5,449.88,C8003,34,Female,Asia,2249.4
+0d74abfd,8/21/2024,P8878,eight,Toys,10,211.11,C8359,23,Male,Europe,2111.1
+d27b85b6,6/20/2024,P3371,cause,Groceries,9,56.71,C2468,37,Male,Europe,510.39
+1d7b72b8,10/2/2024,P8606,note,Groceries,7,319.78,C7491,65,Male,North America,2238.46
+8460d90b,9/16/2024,P3595,ready,Electronics,10,365.89,C2311,60,Male,Asia,3658.9
+9b65e0f4,6/19/2024,P3582,task,Electronics,9,470.02,C2310,65,Other,South America,4230.18
+1e8e6cf0,5/19/2024,P4996,reason,Clothing,9,393.96,C3091,33,Male,Asia,3545.64
+37b7f47d,6/20/2024,P5519,word,Clothing,10,114.25,C3738,45,Other,Europe,1142.5
+ecd0b27c,4/7/2024,P2597,like,Electronics,5,343.18,C6095,67,Other,North America,1715.9
+b442c34a,2/14/2024,P1351,approach,Furniture,2,252.18,C2444,67,Female,South America,504.36
+89599c51,2/11/2024,P8427,become,Toys,9,475.3,C9685,27,Male,Europe,4277.7
+91a23d04,7/31/2024,P7474,war,Electronics,7,315.83,C9976,43,Male,Africa,2210.81
+61840737,8/28/2024,P3591,close,Furniture,7,453.26,C1106,57,Other,South America,3172.82
+0e7ae07b,2/26/2024,P7710,seek,Electronics,5,166.35,C3531,28,Other,Europe,831.75
+256a8e58,9/25/2024,P6235,store,Furniture,9,47.26,C3443,22,Male,Africa,425.34
+3a2e0fce,2/15/2024,P3076,food,Groceries,4,145.33,C8707,18,Female,Europe,581.32
+e35de5d7,4/2/2024,P3755,class,Toys,2,40.36,C7957,58,Other,North America,80.72
+75490bf6,5/21/2024,P6607,skill,Electronics,4,272.16,C7992,46,Male,Asia,1088.64
+65a945f3,11/8/2024,P9645,during,Clothing,10,12.71,C5203,53,Female,North America,127.1
+86f7b979,5/8/2024,P3039,herself,Groceries,5,271.02,C6297,19,Male,North America,1355.1
+3ad3b05e,6/22/2024,P1104,west,Furniture,3,229.52,C7205,19,Other,South America,688.56
+3e47a7d3,8/19/2024,P6014,compare,Toys,8,85.35,C5390,40,Male,Asia,682.8
+0a0554ee,1/4/2024,P4231,could,Clothing,6,444.58,C3480,68,Male,Europe,2667.48
+8ca86ef5,11/1/2024,P7860,sister,Furniture,6,256.8,C2821,23,Other,Africa,1540.8
+662a995f,7/8/2024,P3103,become,Electronics,5,77.68,C8243,59,Female,Asia,388.4
+573c5ad0,1/4/2024,P3190,build,Electronics,8,290.57,C2095,55,Female,Asia,2324.56
+12dfa910,2/7/2024,P1057,to,Toys,10,114.01,C8943,55,Female,North America,1140.1
+49af9197,3/15/2024,P6502,generation,Furniture,1,42.26,C5255,34,Female,Africa,42.26
+063a61d5,10/21/2024,P8477,write,Furniture,1,357.6,C5846,47,Other,Asia,357.6
+e610164b,4/10/2024,P6409,audience,Electronics,9,311.81,C8902,18,Female,South America,2806.29
+b32e8cad,8/27/2024,P1121,focus,Toys,4,470.8,C1795,28,Female,North America,1883.2
+e4df0697,12/1/2024,P5589,side,Electronics,1,98.08,C3748,29,Male,Africa,98.08
+c7b718fa,4/16/2024,P9770,difference,Groceries,2,477.34,C8486,20,Other,South America,954.68
+22170849,5/23/2024,P8505,color,Furniture,8,36.67,C1516,49,Female,North America,293.36
+dafca1e9,1/17/2024,P3344,per,Toys,10,90.93,C8260,42,Other,South America,909.3
+81be1084,11/8/2024,P2532,respond,Electronics,3,280.62,C5026,63,Male,Europe,841.86
+ea2559da,9/13/2024,P6368,president,Groceries,7,99.2,C7160,51,Other,North America,694.4
+c3a62055,8/29/2024,P3140,fight,Clothing,4,13.43,C6177,28,Male,Africa,53.72
+e6ba1c5c,7/12/2024,P4140,own,Electronics,8,273.21,C7554,28,Female,Europe,2185.68
+66b8be65,11/6/2024,P8188,six,Furniture,2,298.57,C5126,28,Male,Asia,597.14
+4ddc6447,6/3/2024,P3604,goal,Electronics,1,441.17,C6037,66,Male,South America,441.17
+e23f2588,11/2/2024,P8111,evening,Furniture,3,111.21,C5975,28,Female,South America,333.63
+d78e41e1,10/30/2024,P3415,son,Groceries,7,46.07,C1999,38,Other,Asia,322.49
+78bb8e0b,5/23/2024,P9371,successful,Furniture,1,56.64,C1273,44,Male,South America,56.64
+addbdf0c,5/26/2024,P6987,think,Electronics,8,263.84,C4296,25,Other,Asia,2110.72
+a38f7143,11/21/2024,P1354,hair,Toys,6,194.72,C6424,27,Female,Asia,1168.32
+f171e10e,10/28/2024,P5216,important,Clothing,7,204.85,C5618,34,Female,Asia,1433.95
+9ddebd49,2/8/2024,P7818,cell,Groceries,3,271.88,C3235,54,Female,South America,815.64
+6f063126,2/29/2024,P9447,store,Clothing,3,124.06,C5199,68,Other,Africa,372.18
+3a1da176,5/29/2024,P2291,heavy,Furniture,4,353.57,C5753,54,Female,Europe,1414.28
+7a9a153c,9/13/2024,P9002,debate,Groceries,10,360.33,C3841,37,Female,South America,3603.3
+9acf3e9b,2/25/2024,P1881,guy,Clothing,5,74.38,C8625,53,Male,Europe,371.9
+58611b44,4/16/2024,P5466,property,Toys,10,44.24,C9872,31,Male,Europe,442.4
+0273e404,2/17/2024,P8466,wonder,Furniture,7,60.75,C3996,27,Other,Africa,425.25
+921302c3,2/5/2024,P2138,leave,Groceries,6,40.8,C2243,22,Male,South America,244.8
+dc321668,7/30/2024,P8173,collection,Furniture,4,180.15,C2284,43,Male,Europe,720.6
+3d51ce5f,4/4/2024,P5619,agency,Clothing,8,416.64,C8874,65,Male,Europe,3333.12
+2efa1858,5/18/2024,P9871,already,Furniture,4,474.24,C9127,20,Female,South America,1896.96
+e296e72c,3/12/2024,P6003,sound,Electronics,6,334.64,C5901,19,Female,North America,2007.84
+0419c916,3/11/2024,P2758,owner,Groceries,4,468.75,C7764,48,Other,North America,1875
+984d388b,8/20/2024,P7890,discuss,Electronics,4,390.55,C1228,55,Female,Europe,1562.2
+cf561167,11/18/2024,P3814,poor,Toys,9,349.5,C7074,28,Male,Europe,3145.5
+5282ed88,7/14/2024,P1584,note,Clothing,7,159.55,C5114,39,Male,Africa,1116.85
+8206f00a,12/2/2024,P9772,free,Electronics,7,470.94,C6325,62,Male,Asia,3296.58
+3638abbf,1/27/2024,P8718,religious,Furniture,6,276.69,C4930,51,Male,Africa,1660.14
+30de3f64,11/6/2024,P9826,whether,Electronics,9,316.67,C1910,63,Female,Asia,2850.03
+f463fd15,5/13/2024,P8425,stuff,Clothing,8,459.64,C9676,45,Female,Europe,3677.12
+19114254,4/8/2024,P6927,environmental,Electronics,6,34.26,C5538,47,Female,Europe,205.56
+3ec8984d,1/16/2024,P7208,leader,Electronics,7,55.16,C2411,30,Male,Africa,386.12
+d43f3fb1,1/14/2024,P5265,view,Toys,7,202.54,C1001,44,Other,Europe,1417.78
+ddf24a3a,1/31/2024,P4629,ground,Electronics,1,59.37,C2123,49,Other,Asia,59.37
+6441c775,5/29/2024,P7092,note,Groceries,8,445.73,C1156,42,Male,Africa,3565.84
+2ba21eea,4/13/2024,P3979,less,Clothing,2,106.14,C3251,70,Other,Europe,212.28
+6d91282c,10/25/2024,P9333,lead,Electronics,2,245.68,C9276,58,Female,South America,491.36
+cd13a900,12/3/2024,P5930,return,Furniture,10,152.11,C5464,67,Male,Asia,1521.1
+ffb52d1c,7/28/2024,P9990,option,Toys,2,205.84,C2484,53,Other,North America,411.68
+30735ee4,5/2/2024,P9981,person,Furniture,4,457.52,C7034,35,Other,North America,1830.08
+5d91245a,9/27/2024,P7823,partner,Furniture,6,295.17,C3114,24,Other,Europe,1771.02
+7bd12beb,1/20/2024,P5901,same,Electronics,1,373.41,C2900,29,Male,North America,373.41
+ac13f7ff,6/14/2024,P7781,management,Groceries,10,371.72,C9781,53,Male,Asia,3717.2
+a55e0cbe,11/8/2024,P6743,second,Groceries,1,275.4,C3693,20,Other,Asia,275.4
+5e99d9ce,6/18/2024,P2018,small,Furniture,5,280.74,C7286,39,Male,Asia,1403.7
+56f80d9f,9/13/2024,P1460,feeling,Clothing,4,471.13,C8689,32,Female,North America,1884.52
+dbe44824,10/19/2024,P3515,street,Electronics,1,56.05,C2318,50,Male,North America,56.05
+fd5f2221,3/2/2024,P7930,hundred,Toys,7,152.94,C9002,48,Female,Africa,1070.58
+5735db94,7/8/2024,P1120,fine,Clothing,4,13.98,C1051,24,Female,South America,55.92
+ba3e59d4,3/2/2024,P6019,he,Clothing,8,208.56,C7497,55,Female,Europe,1668.48
+aede4601,2/5/2024,P5571,director,Electronics,9,219.73,C4901,54,Male,South America,1977.57
+7a794107,8/25/2024,P7477,arrive,Groceries,2,410.31,C8384,39,Other,Europe,820.62
+6c32af54,5/29/2024,P8429,animal,Toys,6,114.95,C5020,66,Other,Africa,689.7
+1dda42cd,12/3/2024,P1639,couple,Clothing,2,80.96,C5771,30,Other,Africa,161.92
+01c40719,9/14/2024,P1821,off,Toys,10,270.99,C9526,21,Female,North America,2709.9
+f17fbe68,9/15/2024,P6369,community,Furniture,9,272.33,C9840,36,Other,South America,2450.97
+10c56871,8/16/2024,P4663,ever,Furniture,7,389.53,C9231,27,Male,Asia,2726.71
+ae143450,5/11/2024,P5956,point,Groceries,3,158.99,C3884,61,Female,Asia,476.97
+ce715bec,10/30/2024,P6148,feel,Furniture,2,376.06,C9274,25,Female,Africa,752.12
+18206c67,10/7/2024,P1528,thought,Toys,10,161.42,C8762,22,Female,South America,1614.2
+af8a42b9,5/15/2024,P5416,claim,Electronics,5,242.05,C5011,42,Female,North America,1210.25
+57b612bc,10/21/2024,P4008,wife,Groceries,1,369.19,C2463,62,Male,North America,369.19
+6fc1c70c,11/8/2024,P1662,this,Furniture,10,65.99,C8467,46,Other,Asia,659.9
+8f021d4e,9/8/2024,P9181,window,Toys,8,426.37,C5136,41,Other,Europe,3410.96
+5c6e133a,3/1/2024,P4260,miss,Clothing,3,295.33,C5005,53,Female,Asia,885.99
+d965864f,7/18/2024,P3124,could,Toys,4,355.79,C8036,36,Female,Asia,1423.16
+f1116fd7,8/2/2024,P9041,turn,Groceries,7,187.82,C2167,69,Female,Africa,1314.74
+2a33131a,1/21/2024,P2147,president,Furniture,8,274.21,C4623,42,Other,South America,2193.68
+965263b9,7/2/2024,P1524,kid,Clothing,6,391.11,C6323,63,Other,Africa,2346.66
+20ab96a6,7/5/2024,P7469,support,Toys,7,252.67,C4750,47,Female,North America,1768.69
+10284471,6/12/2024,P7340,notice,Toys,7,105.83,C6841,61,Male,South America,740.81
+97a4b5da,6/20/2024,P9695,line,Furniture,7,278.81,C8960,31,Male,Africa,1951.67
+462f4ffd,2/19/2024,P7163,carry,Furniture,7,189.56,C7437,41,Other,Europe,1326.92
+b3238c85,5/13/2024,P6349,seek,Furniture,8,154.22,C3809,47,Female,North America,1233.76
+e09d75a2,7/20/2024,P6283,provide,Electronics,8,453.65,C1578,46,Male,North America,3629.2
+709c95f8,4/20/2024,P8664,story,Clothing,6,117.01,C2762,67,Other,North America,702.06
+8412eba7,2/23/2024,P9805,hard,Furniture,7,163.05,C1965,63,Female,North America,1141.35
+139d9e22,10/13/2024,P1328,collection,Toys,10,180.71,C8598,50,Male,Europe,1807.1
+6d3018e6,2/2/2024,P9340,land,Furniture,9,62.4,C3731,48,Other,North America,561.6
+c22aaa3f,7/15/2024,P2195,heavy,Electronics,4,195.59,C7305,39,Male,Africa,782.36
+753fb3bf,8/31/2024,P4042,big,Groceries,5,73.81,C4380,26,Male,Europe,369.05
+aaaa818b,4/13/2024,P4002,they,Toys,1,253.63,C8823,20,Male,Europe,253.63
+ae547ea8,2/29/2024,P8442,house,Clothing,1,384.68,C5208,60,Female,North America,384.68
+a4be6e28,1/12/2024,P5272,own,Groceries,10,123.31,C7649,54,Other,Asia,1233.1
+73eee83a,11/27/2024,P9706,back,Clothing,9,370.41,C9789,54,Male,North America,3333.69
+b6f73ddd,3/18/2024,P3805,serve,Groceries,5,89.66,C4486,54,Other,North America,448.3
+b674aac0,1/26/2024,P8534,base,Clothing,5,141.74,C3849,41,Female,South America,708.7
+7d5373b5,7/13/2024,P5596,just,Toys,6,270.22,C3118,30,Female,Asia,1621.32
+5c7afffd,11/26/2024,P1875,run,Clothing,6,187.22,C2833,26,Female,North America,1123.32
+1769945d,1/9/2024,P6464,business,Toys,9,273.23,C4772,33,Female,Asia,2459.07
+330abb49,1/8/2024,P8487,community,Clothing,7,31.19,C1897,36,Other,Europe,218.33
+a5e6ec01,9/14/2024,P8303,pressure,Furniture,3,28.33,C4512,67,Female,Asia,84.99
+5889e69c,6/8/2024,P7490,yourself,Electronics,7,237.41,C3821,36,Other,South America,1661.87
+8323d145,9/3/2024,P3420,family,Furniture,6,53.97,C7751,43,Male,Asia,323.82
+a8dbcfd9,11/23/2024,P9798,friend,Furniture,1,465.38,C4612,61,Other,South America,465.38
+1fa761ca,5/26/2024,P1320,camera,Clothing,6,292.38,C6846,33,Female,South America,1754.28
+76ed404a,4/2/2024,P3534,citizen,Electronics,7,361.85,C5102,64,Other,South America,2532.95
+944dcf34,10/20/2024,P2604,century,Groceries,4,177.47,C7074,40,Other,Europe,709.88
+52370635,10/27/2024,P4900,resource,Groceries,5,434.64,C7453,28,Female,Europe,2173.2
+b8cb2318,11/21/2024,P3004,process,Groceries,3,493.7,C6298,49,Male,South America,1481.1
+daf8e6aa,5/10/2024,P5785,room,Electronics,1,485.15,C5286,26,Male,North America,485.15
+b4282944,5/28/2024,P9211,show,Groceries,5,175.71,C5066,62,Other,South America,878.55
+ed585805,7/17/2024,P3562,popular,Toys,9,385.65,C3275,18,Other,Asia,3470.85
+58fc1283,1/3/2024,P8318,without,Furniture,2,387.01,C6286,32,Male,South America,774.02
+1d7c8f6f,6/8/2024,P8432,life,Furniture,8,127.03,C8945,56,Other,Africa,1016.24
+6cb39efb,6/15/2024,P2297,believe,Electronics,1,428.25,C7997,46,Female,North America,428.25
+5cd0cd2a,5/16/2024,P9657,affect,Electronics,3,156.73,C9944,70,Male,South America,470.19
+088d74d1,2/13/2024,P4474,also,Clothing,10,469.54,C2926,48,Other,South America,4695.4
+d31605b1,10/1/2024,P4630,produce,Electronics,10,384.83,C3350,21,Male,Africa,3848.3
+8a494c10,4/2/2024,P8538,right,Clothing,8,312.39,C9876,23,Other,Africa,2499.12
+15d6df45,5/7/2024,P5992,someone,Groceries,8,70.07,C1073,30,Other,Europe,560.56
+0fa4bc8a,6/13/2024,P4701,five,Toys,7,186.64,C7044,20,Female,North America,1306.48
+afc3dc97,1/10/2024,P1498,responsibility,Electronics,4,221.55,C8526,29,Other,Asia,886.2
+50a19858,11/29/2024,P5073,likely,Toys,8,398.74,C1456,25,Female,South America,3189.92
+2d769df3,1/19/2024,P6612,interesting,Clothing,3,145.98,C6275,35,Male,Asia,437.94
+fba38696,4/6/2024,P6036,result,Furniture,6,283.6,C3894,41,Other,South America,1701.6
+e4cf7274,4/20/2024,P1341,form,Furniture,4,214.99,C4539,31,Other,South America,859.96
+9cb49995,7/11/2024,P6011,change,Electronics,10,309.41,C3863,50,Male,South America,3094.1
+adad5aa6,1/2/2024,P9524,simple,Clothing,2,38.02,C8921,52,Male,North America,76.04
+329a9731,3/17/2024,P5734,culture,Electronics,1,145.56,C3802,21,Female,North America,145.56
+c182f258,10/23/2024,P6152,away,Groceries,2,122.77,C1566,45,Other,Africa,245.54
+75606fe2,7/12/2024,P5509,behind,Electronics,6,286.28,C7570,53,Other,South America,1717.68
+5c76c94f,10/24/2024,P6113,beyond,Electronics,9,148.72,C1781,22,Other,Europe,1338.48
+acdf133a,2/21/2024,P8345,southern,Toys,4,294.14,C4194,70,Other,Europe,1176.56
+1d0ccfac,3/11/2024,P7262,phone,Clothing,3,439.09,C1573,65,Other,North America,1317.27
+419bc838,2/1/2024,P6908,southern,Toys,2,426.34,C9756,33,Male,Europe,852.68
+429cf4cf,3/16/2024,P7088,store,Furniture,9,182.78,C8074,41,Male,North America,1645.02
+c19b2c1c,2/19/2024,P1946,pick,Electronics,1,283.72,C1361,68,Other,Africa,283.72
+f21886c4,8/6/2024,P5050,left,Electronics,10,238.57,C8216,58,Male,Asia,2385.7
+604810dc,10/26/2024,P9533,few,Furniture,10,186.77,C9868,20,Other,Asia,1867.7
+26648de3,7/27/2024,P3561,wide,Clothing,7,107.58,C1920,33,Female,Africa,753.06
+f0e52da7,5/23/2024,P6662,rise,Toys,8,470.66,C1819,47,Other,South America,3765.28
+ff327c09,5/5/2024,P2198,win,Clothing,9,126.62,C6195,41,Male,Asia,1139.58
+1c0d405a,9/10/2024,P2733,popular,Electronics,10,329.29,C5241,55,Female,Africa,3292.9
+8ca48c3f,5/24/2024,P3011,economy,Toys,7,74.23,C4219,65,Other,Asia,519.61
+56fb6bb5,1/4/2024,P8780,right,Toys,6,65.14,C2521,21,Female,Africa,390.84
+9132ac7a,3/26/2024,P8358,town,Furniture,1,419.52,C2564,22,Male,South America,419.52
+d16e1f65,3/31/2024,P5253,building,Clothing,7,483.43,C4286,34,Male,North America,3384.01
+4b12fa59,9/25/2024,P7129,assume,Toys,2,113.6,C9943,53,Female,Africa,227.2
+c66436fd,2/24/2024,P8576,tonight,Clothing,8,145.65,C2477,30,Male,Asia,1165.2
+e207d692,3/4/2024,P4580,budget,Furniture,6,496.04,C3325,30,Other,Europe,2976.24
+500f55d8,1/13/2024,P4634,far,Groceries,7,455.76,C4655,68,Male,Asia,3190.32
+5ec0124b,6/12/2024,P9276,dark,Clothing,5,431.14,C9909,68,Other,North America,2155.7
+f7c725d7,9/11/2024,P7234,note,Groceries,10,200.75,C2649,19,Male,Europe,2007.5
+90334b5f,5/11/2024,P7846,student,Toys,7,343.75,C2222,61,Male,Europe,2406.25
+3da8b374,11/16/2024,P8614,any,Electronics,4,328.02,C6288,27,Male,South America,1312.08
+745cfd41,11/12/2024,P1385,hope,Electronics,8,123.09,C4677,44,Female,Europe,984.72
+256e9ff1,7/26/2024,P7239,build,Groceries,7,66.56,C1058,21,Male,North America,465.92
+af6d160d,6/18/2024,P1450,my,Groceries,5,376.74,C1052,26,Other,Asia,1883.7
+faa5dc8c,1/31/2024,P7914,also,Furniture,4,310.04,C5787,19,Female,South America,1240.16
+89e4a6b8,1/19/2024,P7974,any,Furniture,7,497.78,C4578,42,Other,Europe,3484.46
+43221be3,4/13/2024,P7388,leg,Electronics,4,466.15,C8405,40,Female,Africa,1864.6
+b78df8ce,2/19/2024,P1804,ability,Toys,10,362.02,C2716,28,Other,Asia,3620.2
+3292fd1b,7/2/2024,P7581,learn,Furniture,5,421.92,C3169,35,Other,Africa,2109.6
+409c8598,7/7/2024,P3997,special,Furniture,5,342.26,C2209,63,Other,Europe,1711.3
+df486977,4/13/2024,P4827,if,Clothing,6,330.92,C1561,67,Male,North America,1985.52
+2d79eaac,6/10/2024,P8779,stand,Groceries,4,178.62,C3605,47,Female,South America,714.48
+eae05245,3/5/2024,P6453,old,Clothing,8,402.11,C2948,25,Other,North America,3216.88
+bd5d7595,6/25/2024,P3851,option,Furniture,6,420.1,C8536,52,Female,Asia,2520.6
+a063f512,5/23/2024,P3096,fly,Groceries,9,250.42,C9477,67,Other,Africa,2253.78
+d351aae7,4/10/2024,P3569,unit,Toys,2,326.72,C3218,66,Male,South America,653.44
+69d2a3a6,5/14/2024,P1653,none,Toys,9,348.69,C8088,69,Male,Asia,3138.21
+36f3c885,10/2/2024,P3286,less,Toys,10,178.85,C2051,46,Female,North America,1788.5
+e705337d,11/16/2024,P3657,protect,Clothing,6,393.94,C7652,67,Female,Africa,2363.64
+304def95,1/26/2024,P2779,some,Clothing,2,36.13,C9254,24,Other,South America,72.26
+04599c5f,2/14/2024,P9495,effort,Furniture,6,241.62,C4529,29,Other,Europe,1449.72
+b31e287f,9/10/2024,P6738,expert,Electronics,8,316.14,C1875,18,Other,South America,2529.12
+73eae0b7,11/6/2024,P9944,leg,Furniture,3,46.96,C2895,29,Female,Asia,140.88
+226d506b,5/25/2024,P9833,state,Groceries,8,106.62,C9474,46,Other,North America,852.96
+18ab15bf,1/11/2024,P6095,choice,Toys,7,315.18,C9320,27,Male,Europe,2206.26
+0bb3374e,9/24/2024,P9242,hospital,Groceries,4,341.83,C2814,39,Other,Europe,1367.32
+61681c8c,2/13/2024,P1247,important,Groceries,3,471.92,C6776,18,Male,South America,1415.76
+6d667590,3/24/2024,P8847,road,Toys,1,15.84,C6893,69,Female,Africa,15.84
+ea532fc2,8/9/2024,P7311,grow,Toys,5,386.32,C3143,45,Other,South America,1931.6
+f57d7b48,3/9/2024,P8612,about,Furniture,3,457.91,C9476,40,Male,Africa,1373.73
+b902531f,7/8/2024,P4413,however,Clothing,2,423.47,C3793,53,Other,Africa,846.94
+f0d810bc,10/23/2024,P9660,lose,Groceries,8,332.94,C1691,70,Female,Asia,2663.52
+cbb58199,11/21/2024,P9926,significant,Electronics,3,434.79,C1577,47,Other,Africa,1304.37
+009aecfc,5/19/2024,P5165,beat,Furniture,3,451.02,C5469,44,Other,South America,1353.06
+c9e0d325,11/8/2024,P1901,standard,Furniture,7,301.79,C9443,36,Other,Europe,2112.53
+fe8e8f12,2/27/2024,P7394,serve,Toys,6,204.91,C7283,65,Female,North America,1229.46
+8569484e,6/4/2024,P4886,score,Toys,5,350.23,C7801,34,Other,Europe,1751.15
+3d41f720,7/25/2024,P5386,hundred,Clothing,3,466.82,C9363,31,Male,Europe,1400.46
+8eed7c64,4/18/2024,P9095,room,Furniture,2,306.26,C7578,35,Male,South America,612.52
+a3d50341,8/26/2024,P1588,race,Toys,8,102.19,C3549,32,Female,Africa,817.52
+ef221fdb,7/12/2024,P1323,page,Clothing,9,259.13,C6886,62,Male,Europe,2332.17
+1f460c19,2/20/2024,P7633,court,Electronics,9,437.94,C5254,32,Other,North America,3941.46
+9f7e1bf6,11/6/2024,P7018,list,Groceries,7,21,C1840,26,Male,South America,147
+ae0dc8e1,7/23/2024,P8256,politics,Clothing,1,477.81,C6273,27,Male,Asia,477.81
+feb6ad8b,11/7/2024,P6823,there,Toys,5,431.46,C3209,25,Female,Asia,2157.3
+1602abae,2/18/2024,P2725,population,Clothing,4,432.82,C7077,19,Male,Europe,1731.28
+14c6a09f,6/19/2024,P5408,former,Clothing,9,310.44,C5760,66,Other,Asia,2793.96
+1b8007ae,2/9/2024,P4434,ahead,Groceries,6,160.83,C8700,54,Female,South America,964.98
+a9bc8363,11/1/2024,P1311,seat,Clothing,9,25.38,C2450,34,Male,North America,228.42
+a1f83256,6/7/2024,P3042,window,Electronics,1,75.37,C6661,56,Male,South America,75.37
+dac5bba9,10/4/2024,P1534,leader,Furniture,9,179.52,C1748,64,Male,Asia,1615.68
+d8318627,4/5/2024,P7024,once,Electronics,10,398.94,C1254,27,Female,Asia,3989.4
+01f1dacb,2/29/2024,P8662,mind,Furniture,2,498.38,C7807,37,Male,Europe,996.76
+06314f56,2/7/2024,P5478,lay,Electronics,8,404.8,C4298,44,Other,South America,3238.4
+ea3d671b,11/22/2024,P1878,strategy,Furniture,5,452.86,C6733,27,Other,Europe,2264.3
+2ada08ef,4/13/2024,P6371,which,Electronics,10,478.6,C1989,22,Female,Asia,4786
+43118889,4/16/2024,P1640,nation,Furniture,7,324.25,C4838,57,Female,Europe,2269.75
+9f1f71f6,8/27/2024,P6511,close,Clothing,5,75.63,C5771,69,Male,North America,378.15
+ce582829,4/23/2024,P4793,least,Electronics,1,213.91,C4213,30,Female,Europe,213.91
+f33d4345,7/5/2024,P5046,no,Electronics,3,436.75,C4900,39,Male,Africa,1310.25
+33665ad1,3/12/2024,P8142,significant,Electronics,6,427.96,C9970,24,Female,Asia,2567.76
+5413ac0e,11/2/2024,P3787,light,Furniture,8,384.76,C1117,29,Other,North America,3078.08
+2651aeca,10/22/2024,P7138,suffer,Toys,9,272.35,C2256,56,Other,Africa,2451.15
+bc748f5e,11/14/2024,P3341,full,Furniture,4,115.62,C5862,70,Other,Asia,462.48
+a65285bb,1/16/2024,P2646,modern,Furniture,3,92.3,C8487,70,Male,Europe,276.9
+00b7e08e,6/15/2024,P2105,better,Clothing,9,361.14,C8730,37,Female,Europe,3250.26
+355c370f,9/30/2024,P4191,experience,Toys,2,402.57,C1082,69,Other,Africa,805.14
+c3d4b54f,8/20/2024,P2102,buy,Electronics,3,79.94,C5349,33,Other,Europe,239.82
+2dff4b83,7/11/2024,P2611,garden,Electronics,8,78.03,C3529,43,Other,Asia,624.24
+1a2a6bb0,5/26/2024,P5734,voice,Groceries,9,191.85,C6219,34,Other,Africa,1726.65
+95387146,6/18/2024,P9822,yes,Clothing,1,431.38,C1465,63,Other,Africa,431.38
+d35d382a,12/2/2024,P9284,want,Furniture,5,101.9,C3419,47,Other,Africa,509.5
+75ff7df5,2/2/2024,P9410,service,Toys,10,422.35,C2526,25,Male,Asia,4223.5
+1e51f800,8/6/2024,P6543,mention,Groceries,1,254.62,C3261,25,Male,Africa,254.62
+7cd3be83,10/4/2024,P7850,new,Electronics,4,41.07,C3605,26,Other,Africa,164.28
+a6c0ba06,1/31/2024,P2441,not,Electronics,5,406.88,C1145,65,Male,Europe,2034.4
+a17ab3de,8/20/2024,P8118,treat,Toys,1,410.04,C3224,45,Male,Asia,410.04
+66a25bf1,5/27/2024,P9021,risk,Furniture,3,374.39,C8465,57,Male,Africa,1123.17
+320fff74,3/19/2024,P9428,about,Groceries,8,398.78,C5207,49,Male,Europe,3190.24
+3f20fbcc,3/10/2024,P3884,carry,Electronics,7,151.7,C7480,46,Female,Asia,1061.9
+56246f1c,11/27/2024,P3868,happy,Electronics,10,190.87,C7002,59,Male,South America,1908.7
+5f3b0148,2/29/2024,P8045,not,Groceries,2,298.52,C8717,69,Other,North America,597.04
+8c98ed8e,9/12/2024,P8308,air,Electronics,9,14.61,C8211,26,Other,South America,131.49
+f3e4d4dd,11/29/2024,P1620,his,Groceries,1,476.24,C8557,44,Other,North America,476.24
+ab61c910,6/27/2024,P8715,art,Electronics,9,231.44,C6848,40,Female,South America,2082.96
+121b0509,3/9/2024,P2971,dream,Groceries,8,165.11,C4091,32,Female,Africa,1320.88
+dec065ee,9/2/2024,P1432,enter,Clothing,4,402.27,C1208,19,Male,Africa,1609.08
+6800a886,10/3/2024,P7055,dark,Electronics,6,423.81,C6598,49,Other,South America,2542.86
+3373bec5,5/11/2024,P7557,decade,Groceries,8,341.84,C9626,61,Male,Asia,2734.72
+1a9ec48f,3/11/2024,P5849,significant,Toys,3,480.06,C3336,50,Male,Asia,1440.18
+7cba3fac,8/5/2024,P5832,report,Clothing,7,39.04,C4287,29,Male,Europe,273.28
+7c8484e0,10/1/2024,P5180,attention,Electronics,2,79.73,C3642,55,Female,Europe,159.46
+ea63ddac,5/28/2024,P4842,likely,Clothing,5,275.86,C1255,32,Male,South America,1379.3
+1ce557e0,11/14/2024,P7370,huge,Clothing,3,190.42,C5780,43,Female,Asia,571.26
+5f179cc2,3/12/2024,P1495,find,Clothing,7,283.04,C5816,42,Female,South America,1981.28
+a7530020,11/19/2024,P8203,natural,Electronics,6,109.92,C9575,36,Male,Europe,659.52
+6882a59a,9/14/2024,P7658,material,Electronics,4,447.95,C4305,60,Other,South America,1791.8
+22edba5d,3/29/2024,P5831,responsibility,Electronics,3,268.87,C5497,50,Female,Africa,806.61
+2da16a45,3/31/2024,P8027,college,Clothing,8,335.98,C7367,37,Male,South America,2687.84
+738aacee,11/12/2024,P8478,daughter,Furniture,4,82.53,C4413,33,Female,North America,330.12
+2c2aabac,8/11/2024,P8446,appear,Electronics,10,328.13,C8472,42,Female,South America,3281.3
+a7e03904,8/25/2024,P6864,they,Electronics,8,274.6,C4268,25,Other,North America,2196.8
+7c0b0d2b,1/20/2024,P8380,address,Clothing,1,167.7,C4866,18,Female,Europe,167.7
+e800ef41,1/29/2024,P1960,door,Furniture,2,322.02,C8232,59,Other,Asia,644.04
+ea0b6a24,11/5/2024,P1824,end,Groceries,2,419.36,C8174,39,Female,South America,838.72
+54f40724,2/11/2024,P9504,fall,Toys,5,174.54,C4052,55,Female,Africa,872.7
+2989cbef,7/11/2024,P8806,page,Toys,10,351.55,C8475,41,Female,Africa,3515.5
+18dd1883,3/7/2024,P1523,young,Furniture,4,283.05,C8807,70,Other,North America,1132.2
+5faa6b9e,11/5/2024,P4211,dinner,Groceries,4,364.57,C1611,22,Female,South America,1458.28
+736395b6,5/11/2024,P9438,eye,Furniture,1,296.91,C4045,46,Male,Africa,296.91
+b3f84eff,1/5/2024,P7700,one,Electronics,5,340.53,C1295,21,Other,Africa,1702.65
+a411ebe6,9/8/2024,P7179,future,Electronics,7,122.04,C8708,24,Other,North America,854.28
+0bc47582,8/19/2024,P1545,large,Toys,1,360.98,C4434,21,Female,Asia,360.98
+28e43762,4/22/2024,P8132,several,Toys,7,69.08,C5242,30,Male,North America,483.56
+fd03dc82,10/9/2024,P1190,policy,Toys,6,185.18,C4909,21,Other,Africa,1111.08
+dc5f4bd0,5/27/2024,P1248,action,Toys,5,213.04,C4741,49,Male,North America,1065.2
+ce2fc9be,7/5/2024,P9930,teach,Groceries,4,243.12,C6236,70,Other,Asia,972.48
+d3c03a64,6/8/2024,P9068,pay,Clothing,6,437.14,C7359,29,Male,Asia,2622.84
+6e44d012,10/3/2024,P5870,responsibility,Electronics,9,240.6,C7841,56,Other,Africa,2165.4
+535b8de3,8/19/2024,P7606,why,Toys,3,201.48,C9709,25,Male,North America,604.44
+3b5f425c,4/1/2024,P2809,focus,Groceries,1,291.54,C3853,46,Male,Asia,291.54
+ea8c1085,4/21/2024,P7848,agreement,Clothing,9,456.61,C4013,34,Female,Europe,4109.49
+ddd2cff1,1/13/2024,P7385,reflect,Toys,10,419.72,C3179,67,Male,North America,4197.2
+abe1a29c,5/3/2024,P3555,two,Furniture,5,120.85,C1141,31,Other,North America,604.25
+84bf9114,11/20/2024,P7542,eat,Electronics,3,430.82,C3370,26,Female,Europe,1292.46
+7573ae6d,9/8/2024,P6540,behavior,Toys,10,210.16,C4470,18,Other,Africa,2101.6
+0e4b4792,8/7/2024,P7678,job,Groceries,9,469.91,C6363,41,Other,Africa,4229.19
+99e2a1a0,7/22/2024,P6895,relationship,Electronics,8,356.79,C1976,27,Male,Asia,2854.32
+4365bc57,8/20/2024,P1793,make,Clothing,7,24.13,C4790,22,Female,Africa,168.91
+b200a192,4/27/2024,P2115,appear,Clothing,8,443.78,C7901,63,Male,South America,3550.24
+76f2b7d2,8/15/2024,P1657,cost,Groceries,8,151.94,C3743,55,Male,South America,1215.52
+f9c201ef,8/30/2024,P4700,Congress,Groceries,9,176.92,C7859,34,Male,South America,1592.28
+12479233,10/3/2024,P9395,moment,Electronics,2,143.07,C5902,19,Female,Africa,286.14
+bf6dee0f,11/2/2024,P1837,unit,Clothing,4,299.23,C1328,47,Other,North America,1196.92
+b67e99a5,8/30/2024,P5122,western,Furniture,7,34.41,C7697,32,Other,Asia,240.87
+e9d1cb9c,10/6/2024,P7222,thing,Groceries,5,36.65,C2792,36,Other,North America,183.25
+0a2821d6,8/11/2024,P2564,identify,Toys,6,200.76,C3516,52,Female,South America,1204.56
+e5686e35,4/6/2024,P4428,ground,Toys,8,148.93,C3739,63,Male,Asia,1191.44
+dfe07729,4/20/2024,P7258,particular,Clothing,9,451.59,C6759,28,Female,North America,4064.31
+07eac4e2,8/6/2024,P3223,on,Clothing,7,122.48,C4280,37,Male,South America,857.36
+c567bdfd,11/5/2024,P8743,bring,Clothing,4,298.81,C8043,43,Other,South America,1195.24
+b577f3b8,3/1/2024,P5277,fast,Electronics,5,154.77,C8445,59,Female,South America,773.85
+f93ce25d,9/11/2024,P3575,north,Clothing,2,234.7,C2394,49,Other,North America,469.4
+b486365d,8/31/2024,P6732,record,Electronics,7,56.11,C4254,32,Other,North America,392.77
+d059933f,10/1/2024,P7005,author,Clothing,4,445.74,C4500,22,Other,Europe,1782.96
+2ac02a0c,2/20/2024,P4128,Mrs,Toys,10,101.34,C9650,20,Other,Africa,1013.4
+f9d98882,1/6/2024,P5543,however,Toys,5,492.24,C6978,30,Other,Europe,2461.2
+84b5e777,7/4/2024,P5277,article,Toys,1,133.19,C5855,69,Other,Europe,133.19
+6a6654b9,9/7/2024,P7549,year,Toys,5,287.25,C6504,60,Other,Africa,1436.25
+5c8dd42e,7/15/2024,P3986,no,Electronics,2,154.42,C8230,19,Female,Africa,308.84
+86988a62,5/23/2024,P8562,world,Furniture,7,347.58,C7756,44,Other,Europe,2433.06
+f2e4cf74,5/6/2024,P4719,try,Electronics,10,157.77,C3843,68,Female,Africa,1577.7
+9731d92a,10/30/2024,P7296,company,Furniture,10,481.78,C5553,55,Male,North America,4817.8
+aecfe3fd,11/24/2024,P1943,strong,Electronics,8,332.01,C5996,36,Female,North America,2656.08
+1ff009c2,10/9/2024,P6207,market,Clothing,10,379.09,C4137,54,Other,Africa,3790.9
+de527a88,5/14/2024,P8499,should,Toys,1,223.34,C1726,63,Female,Asia,223.34
+56bebd15,7/21/2024,P1850,talk,Toys,8,414.55,C2232,24,Female,North America,3316.4
+a933ece7,4/2/2024,P1319,indeed,Toys,4,444.61,C5231,44,Other,Europe,1778.44
+93583a65,1/18/2024,P6325,actually,Groceries,6,219.27,C4671,52,Other,Africa,1315.62
+8a1623c1,4/21/2024,P2307,foot,Toys,5,372.6,C4551,38,Female,Africa,1863
+970bdf04,9/8/2024,P6822,media,Furniture,10,173.54,C6509,63,Male,South America,1735.4
+6dbb2767,2/14/2024,P7049,food,Electronics,6,434.48,C6805,44,Other,North America,2606.88
+80f232e1,5/5/2024,P1275,whose,Electronics,3,464.29,C2402,21,Male,Asia,1392.87
+02b24380,5/3/2024,P2715,weight,Clothing,6,107.46,C7595,42,Other,Africa,644.76
+36cb9f13,9/8/2024,P2644,visit,Electronics,7,459.24,C9212,52,Other,Europe,3214.68
+d867808c,9/16/2024,P4258,surface,Furniture,4,308.75,C3598,50,Female,Asia,1235
+dffcf4e6,4/17/2024,P1726,organization,Toys,9,470.08,C1066,61,Female,North America,4230.72
+93b05653,5/5/2024,P9129,note,Toys,6,214.04,C4654,33,Other,Africa,1284.24
+05bf0cd5,10/8/2024,P8112,soon,Toys,5,196.07,C5227,27,Other,South America,980.35
+cd00b159,9/19/2024,P5295,practice,Electronics,1,185.82,C2300,27,Female,North America,185.82
+37eb1480,1/20/2024,P2986,different,Toys,6,191.12,C1214,37,Male,Asia,1146.72
+f5f78a44,9/9/2024,P9370,one,Furniture,10,344.37,C1719,65,Other,Europe,3443.7
+192b52f8,5/19/2024,P3099,finally,Furniture,9,192.75,C1246,18,Female,North America,1734.75
+f7e48614,2/18/2024,P5496,religious,Groceries,8,221.29,C5976,57,Other,North America,1770.32
+9348af42,3/21/2024,P7226,better,Clothing,3,88.86,C1280,69,Male,Africa,266.58
+5bc79332,5/8/2024,P4196,health,Furniture,2,108.57,C9716,18,Male,South America,217.14
+30d984ab,9/26/2024,P4577,view,Clothing,8,62.03,C9914,40,Male,Africa,496.24
+cc381e9e,9/13/2024,P1792,lot,Furniture,2,422.32,C8640,42,Female,South America,844.64
+f3ce1fd3,4/19/2024,P2224,response,Electronics,1,360.45,C4608,68,Female,Asia,360.45
+509332ee,1/31/2024,P7929,realize,Groceries,10,136.12,C5859,68,Male,Europe,1361.2
+67bf4e1f,8/23/2024,P4516,full,Clothing,3,250.38,C2911,38,Male,Europe,751.14
+11ac2c63,1/12/2024,P3346,enjoy,Groceries,5,195.96,C1354,26,Male,Asia,979.8
+8a542c79,4/21/2024,P6990,expert,Clothing,1,39.8,C4574,64,Female,South America,39.8
+9eeeae9f,6/29/2024,P7809,guy,Groceries,1,455.23,C8506,21,Female,South America,455.23
+83aa1b68,3/26/2024,P4684,seem,Clothing,1,261.64,C2841,63,Female,North America,261.64
+757badc9,1/13/2024,P5467,as,Groceries,1,427.81,C3861,31,Male,Africa,427.81
+2caeb735,5/20/2024,P9710,while,Furniture,9,195.49,C9614,23,Male,South America,1759.41
+0dd69f1a,3/21/2024,P5562,energy,Clothing,2,476.76,C9965,56,Other,South America,953.52
+4023310,5/30/2024,P2491,wonder,Electronics,4,488.39,C3231,20,Female,South America,1953.56
+a4da63cb,10/30/2024,P9602,any,Groceries,6,212.87,C9477,27,Other,Africa,1277.22
+bab0264a,4/14/2024,P4330,certain,Toys,5,210.21,C8772,66,Male,North America,1051.05
+be4fd069,2/22/2024,P8475,hear,Clothing,9,36.2,C7299,67,Female,South America,325.8
+4f514381,11/24/2024,P1930,authority,Groceries,10,50.87,C9762,25,Male,North America,508.7
+f0e0bcf7,7/6/2024,P3380,past,Groceries,4,149.27,C3573,57,Other,Asia,597.08
+f39812d2,9/2/2024,P4972,social,Furniture,8,368.47,C8585,56,Other,North America,2947.76
+ceb4342f,12/4/2024,P2650,main,Groceries,3,486.67,C4226,41,Other,North America,1460.01
+bfef1161,8/23/2024,P9997,bit,Toys,7,22.15,C1892,24,Male,North America,155.05
+5a9b9e1c,6/11/2024,P7637,she,Toys,3,42.88,C4022,28,Male,South America,128.64
+04b20e23,11/27/2024,P8960,half,Clothing,9,89.3,C7153,51,Female,South America,803.7
+566bf482,10/31/2024,P8586,yes,Groceries,7,348.65,C9237,64,Female,North America,2440.55
+d588da7b,5/8/2024,P8529,free,Furniture,8,319.14,C3038,35,Other,Africa,2553.12
+5c600a42,10/23/2024,P6600,shake,Clothing,4,347.98,C5233,62,Female,North America,1391.92
+6b3b20a0,11/13/2024,P3605,now,Electronics,4,302.15,C4423,46,Male,Africa,1208.6
+389f78af,1/21/2024,P2714,technology,Electronics,9,442.92,C5178,43,Female,Asia,3986.28
+c80f48b0,10/8/2024,P1508,week,Electronics,6,213.59,C8230,39,Female,North America,1281.54
+1a10411c,11/2/2024,P9640,however,Furniture,10,373.9,C6742,53,Female,South America,3739
+cec608a1,11/14/2024,P4621,help,Furniture,3,209.78,C8477,66,Female,Africa,629.34
+34cac8b9,4/28/2024,P2824,happen,Furniture,2,335.16,C5548,31,Female,Africa,670.32
+51830fdf,10/13/2024,P2294,parent,Furniture,3,270.83,C8526,36,Female,North America,812.49
+e52744fa,7/13/2024,P2900,authority,Electronics,7,55.57,C6709,41,Female,Europe,388.99
+eb480f01,8/1/2024,P9640,consumer,Electronics,4,477.14,C4102,40,Other,South America,1908.56
+182f2259,1/29/2024,P9446,trial,Groceries,3,415.44,C9508,22,Male,Europe,1246.32
+116c7bc0,2/22/2024,P3929,forget,Electronics,2,274.71,C1713,38,Other,Europe,549.42
+0136b6e9,5/3/2024,P3818,future,Electronics,1,434.91,C1021,45,Female,South America,434.91
+94f2f7f3,5/24/2024,P3236,accept,Clothing,6,289.69,C2857,35,Other,Africa,1738.14
+d815f99d,11/20/2024,P8702,exist,Groceries,6,72.91,C4365,20,Female,North America,437.46
+c9ab7870,7/3/2024,P4333,a,Groceries,3,222.95,C5588,54,Male,South America,668.85
+57f203e2,4/25/2024,P2531,arm,Electronics,6,279.12,C8170,53,Other,Africa,1674.72
+8bde0680,3/10/2024,P3275,prove,Clothing,1,186.8,C1056,48,Other,Africa,186.8
+52a57e32,3/27/2024,P5372,now,Toys,6,111.54,C1495,42,Female,Europe,669.24
+f2baf24d,8/20/2024,P2330,pretty,Electronics,1,200.13,C6982,36,Other,Asia,200.13
+8b72ce3d,6/14/2024,P5672,subject,Electronics,8,177.19,C8222,56,Male,North America,1417.52
+44be3486,7/10/2024,P1339,turn,Toys,10,351.48,C2636,66,Male,North America,3514.8
+b90da477,7/21/2024,P7036,someone,Clothing,10,222.03,C1185,52,Female,North America,2220.3
+901c4b0e,8/23/2024,P7474,can,Groceries,1,199.37,C1930,53,Female,North America,199.37
+4b69933f,4/17/2024,P1227,hospital,Electronics,3,252.31,C6547,30,Female,South America,756.93
+ef9528e6,4/18/2024,P8428,decide,Electronics,9,382.26,C7028,54,Female,Africa,3440.34
+423eab11,2/8/2024,P6116,accept,Electronics,2,264.84,C5225,32,Female,North America,529.68
+786f5e25,8/10/2024,P3393,money,Groceries,10,145.74,C3734,19,Other,North America,1457.4
+05867d28,11/25/2024,P7344,dinner,Clothing,5,389.13,C6728,45,Male,Europe,1945.65
+aa7c36a1,10/6/2024,P4957,attack,Groceries,5,458.42,C1604,47,Female,Asia,2292.1
+2647452e,9/23/2024,P9272,whatever,Electronics,2,282.55,C5944,25,Male,Asia,565.1
+83a366cb,10/11/2024,P8496,keep,Groceries,1,415.3,C7827,19,Other,Asia,415.3
+ef7785b9,8/27/2024,P7867,condition,Clothing,3,271.03,C4245,63,Female,Europe,813.09
+b1fcaf9d,11/5/2024,P8804,arm,Electronics,8,394.63,C6039,56,Other,Asia,3157.04
+d947a56a,2/26/2024,P9737,state,Clothing,9,445.91,C6268,66,Male,Asia,4013.19
+da8e9904,11/10/2024,P3471,evidence,Electronics,2,328.48,C4215,31,Male,Africa,656.96
+ae81daa1,4/23/2024,P7583,threat,Toys,4,477.51,C4395,45,Female,South America,1910.04
+86acd7e8,10/14/2024,P8369,throw,Clothing,8,355.46,C1233,39,Other,North America,2843.68
+967aeaa2,11/1/2024,P5884,individual,Furniture,3,225.83,C3631,40,Other,Asia,677.49
+ad7b4736,9/21/2024,P1531,buy,Clothing,8,103.79,C5515,34,Other,North America,830.32
+bf2cfee3,7/17/2024,P7647,candidate,Groceries,5,427.31,C3277,29,Female,Europe,2136.55
+d9c42068,4/10/2024,P3058,American,Electronics,10,311.85,C2682,63,Other,North America,3118.5
+2089ff86,6/6/2024,P7059,spring,Toys,6,414.9,C4633,54,Female,South America,2489.4
+c14e8779,9/9/2024,P8902,stock,Furniture,1,330.9,C7357,27,Other,Asia,330.9
+74ec9617,3/8/2024,P2260,fly,Toys,5,466.42,C9674,49,Other,Africa,2332.1
+4eb62593,10/15/2024,P5163,low,Furniture,6,181.03,C1914,32,Male,Africa,1086.18
+c81b282a,8/10/2024,P8293,fast,Electronics,1,65.25,C9184,36,Female,Europe,65.25
+6b0a7c0a,6/28/2024,P7160,investment,Furniture,1,205.76,C7036,62,Other,Europe,205.76
+f78689cb,6/29/2024,P2638,trial,Furniture,7,93.53,C1992,24,Male,Europe,654.71
+1b0248ab,3/3/2024,P4062,third,Groceries,4,386.63,C9017,61,Other,Africa,1546.52
+aab1c63b,3/1/2024,P6672,either,Clothing,3,296.63,C5361,52,Female,Africa,889.89
+b6b9cf27,5/15/2024,P1109,service,Clothing,6,203.31,C1187,70,Female,North America,1219.86
+0e77134d,8/2/2024,P3129,couple,Groceries,8,309.43,C4469,30,Female,North America,2475.44
+ab19bce3,7/20/2024,P3654,here,Clothing,10,267.06,C4734,45,Other,South America,2670.6
+35b4f80e,1/19/2024,P3744,view,Clothing,9,319.05,C4340,39,Female,South America,2871.45
+336a5506,7/30/2024,P5205,official,Furniture,6,411.71,C8192,56,Female,South America,2470.26
+2225b512,9/28/2024,P5408,find,Electronics,8,259.01,C3262,47,Female,Africa,2072.08
+5b88f60a,10/16/2024,P2357,become,Toys,4,262.15,C2019,31,Male,Europe,1048.6
+1d218e0b,9/13/2024,P5294,girl,Furniture,8,43.87,C3687,66,Female,South America,350.96
+df4c99e9,6/28/2024,P3005,admit,Furniture,2,441.67,C5788,46,Male,North America,883.34
+42f7c6f5,8/1/2024,P1258,have,Furniture,1,196.36,C5925,36,Female,Europe,196.36
+9f4a08b6,6/3/2024,P8267,fly,Furniture,9,494.03,C5696,55,Male,Africa,4446.27
+3283c428,4/27/2024,P8472,lay,Electronics,4,93.16,C3240,49,Female,Asia,372.64
+463b31d2,6/6/2024,P1401,establish,Electronics,6,378.34,C8340,39,Male,Asia,2270.04
+9c006040,1/6/2024,P9903,sort,Furniture,10,414.13,C6145,21,Female,North America,4141.3
+c9f25989,5/20/2024,P1468,choose,Toys,4,289.05,C8798,68,Other,Africa,1156.2
+02e5ea9d,11/18/2024,P5685,because,Electronics,5,304.62,C6419,67,Male,Africa,1523.1
+e7254404,6/5/2024,P2094,face,Clothing,7,353.52,C6120,24,Other,Asia,2474.64
+3a425475,11/20/2024,P2440,more,Groceries,9,304.78,C8184,60,Female,Africa,2743.02
+5f837267,3/5/2024,P7044,those,Toys,3,110.79,C8943,41,Male,Africa,332.37
+00b5df4a,11/16/2024,P1063,for,Clothing,10,82.19,C4114,55,Other,Africa,821.9
+2bab8e54,4/8/2024,P4943,box,Toys,1,146.59,C4777,20,Female,Africa,146.59
+d4d9e93a,5/19/2024,P1908,win,Clothing,7,231.47,C1255,32,Other,Europe,1620.29
+71b12f43,8/28/2024,P6929,make,Clothing,1,212.08,C2288,41,Female,Africa,212.08
+dc49921c,2/4/2024,P3773,director,Toys,6,108.37,C7933,57,Female,North America,650.22
+870d75e5,1/17/2024,P6532,Democrat,Groceries,4,493.15,C3530,25,Female,Asia,1972.6
+470ada3e,5/23/2024,P2804,drive,Furniture,5,466.98,C1687,43,Female,Africa,2334.9
+73ded0d6,9/22/2024,P3685,agency,Clothing,9,245.31,C9051,58,Other,Europe,2207.79
+5c28efac,7/15/2024,P9297,cover,Furniture,7,290.93,C4598,25,Male,Africa,2036.51
+227b168a,9/10/2024,P6049,interview,Furniture,1,264.52,C8494,20,Male,South America,264.52
+8f5e7dc3,7/1/2024,P8461,wife,Furniture,8,38.25,C8246,19,Female,Asia,306
+76235935,8/16/2024,P7185,situation,Toys,5,176.6,C5833,48,Male,North America,883
+14fb8595,3/29/2024,P4421,decade,Furniture,5,436.95,C2208,45,Male,Africa,2184.75
+78d14675,4/11/2024,P8727,company,Clothing,10,352.8,C8610,36,Female,Asia,3528
+844f7d2e,4/2/2024,P2096,central,Electronics,3,260.35,C4959,44,Male,South America,781.05
+1d21f43f,3/23/2024,P2406,perhaps,Groceries,2,400.37,C2939,28,Female,South America,800.74
+ca4f0189,10/7/2024,P7409,heavy,Groceries,5,239.46,C6960,54,Male,Europe,1197.3
+a0bc2795,3/5/2024,P2277,step,Electronics,2,345.49,C4010,44,Female,Africa,690.98
+32c1e1bc,2/26/2024,P1822,believe,Electronics,10,478.81,C5385,38,Other,North America,4788.1
+8d672451,1/18/2024,P9656,draw,Clothing,7,185.83,C5026,61,Male,North America,1300.81
+6cd049b2,10/26/2024,P9966,eight,Groceries,4,77.8,C9616,19,Female,South America,311.2
+d30c0b18,2/13/2024,P9104,increase,Furniture,7,454.3,C7768,67,Male,Asia,3180.1
+1252fbcc,9/6/2024,P5355,heavy,Toys,8,112.68,C2838,31,Female,Europe,901.44
+14e2c5a4,7/14/2024,P6787,pressure,Clothing,8,144.14,C3776,62,Male,Africa,1153.12
+cfc0032f,6/21/2024,P2716,health,Electronics,9,65.69,C7381,43,Other,Asia,591.21
+e57fb894,9/25/2024,P1200,miss,Electronics,3,249.81,C3474,37,Female,Asia,749.43
+fbbffdc3,11/16/2024,P9798,write,Groceries,10,224.11,C7662,60,Other,Asia,2241.1
+351006f8,2/9/2024,P7376,worry,Furniture,7,85.47,C2920,37,Female,Europe,598.29
+a590a55d,2/16/2024,P1176,not,Furniture,10,53.96,C7096,18,Other,Europe,539.6
+6e10c696,10/12/2024,P6604,player,Toys,8,301.54,C6415,37,Other,Asia,2412.32
+6b716d10,1/27/2024,P3868,remember,Toys,6,375.99,C6155,40,Female,Africa,2255.94
+2d9caaa8,11/13/2024,P6444,president,Groceries,10,140.38,C8703,51,Other,North America,1403.8
+dbbe83c2,10/23/2024,P9302,piece,Toys,10,41.4,C6915,39,Female,Europe,414
+1d114074,10/31/2024,P9698,require,Toys,2,361.29,C9777,52,Male,South America,722.58
+9bc3598e,8/17/2024,P2853,drop,Clothing,1,425.5,C6095,67,Male,Africa,425.5
+9d994980,6/30/2024,P4842,hold,Clothing,5,475.37,C2192,57,Other,Africa,2376.85
+f0e52d87,9/14/2024,P4052,describe,Clothing,9,466.54,C8072,55,Female,Africa,4198.86
+32bce670,2/20/2024,P2034,scene,Electronics,5,104.62,C8967,31,Other,Asia,523.1
+f17ef700,4/20/2024,P4415,theory,Furniture,3,185.75,C1749,61,Other,Asia,557.25
+14e8e25b,10/1/2024,P5526,about,Toys,3,423.59,C7981,20,Female,South America,1270.77
+c53ba2fa,11/23/2024,P8821,activity,Clothing,6,495.92,C8694,31,Female,North America,2975.52
+44eead2c,3/12/2024,P4246,hear,Clothing,2,181.75,C5599,29,Female,South America,363.5
+b09ffc18,7/26/2024,P2446,magazine,Toys,3,357.04,C1938,36,Other,Asia,1071.12
+fc5b03de,7/29/2024,P2246,matter,Furniture,9,345.39,C6978,69,Female,Africa,3108.51
+fe34702b,9/9/2024,P2681,increase,Toys,10,290.29,C1229,56,Female,Asia,2902.9
+83ea0bcb,3/9/2024,P7378,lay,Toys,7,394.93,C5221,55,Other,Asia,2764.51
+ca43c6c9,10/4/2024,P5195,cultural,Clothing,6,195.51,C5972,30,Female,Asia,1173.06
+d86ad6d1,4/5/2024,P8769,executive,Furniture,6,396.51,C3842,54,Other,Africa,2379.06
+b06f82cf,8/3/2024,P9735,kind,Groceries,5,422.98,C3157,44,Male,Asia,2114.9
+799c9906,1/16/2024,P2454,amount,Toys,4,50.05,C3084,38,Other,North America,200.2
+089a092c,3/3/2024,P9291,visit,Toys,2,261.36,C5669,57,Male,Europe,522.72
+14df8709,6/22/2024,P6840,husband,Toys,6,339.33,C7729,66,Other,Asia,2035.98
+c3de6d14,2/9/2024,P5583,upon,Clothing,8,491.83,C2881,29,Other,South America,3934.64
+ba013939,7/18/2024,P1194,have,Furniture,6,416.55,C9871,22,Other,South America,2499.3
+a540a87b,3/27/2024,P3520,rate,Electronics,2,430.26,C2609,35,Other,North America,860.52
+b87be79e,9/15/2024,P5075,new,Electronics,1,175.86,C2928,24,Male,Asia,175.86
+45ac2ed6,10/18/2024,P5771,matter,Electronics,8,54.77,C7374,32,Other,Africa,438.16
+09e58211,7/10/2024,P2076,nothing,Electronics,1,190.8,C4481,57,Other,Africa,190.8
+2952b58a,6/13/2024,P6847,history,Groceries,6,483.95,C3351,62,Other,North America,2903.7
+dda46114,8/18/2024,P2791,third,Groceries,5,33.99,C5291,19,Female,Europe,169.95
+aa111c01,2/22/2024,P4439,guess,Electronics,10,152.98,C8229,52,Other,North America,1529.8
+50a443f8,1/16/2024,P1542,nothing,Toys,4,100.05,C1270,36,Other,South America,400.2
+3a5c4225,10/20/2024,P5567,hold,Toys,8,382.78,C1895,55,Male,North America,3062.24
+121fbf88,11/20/2024,P2905,state,Groceries,10,239.04,C5935,43,Female,Africa,2390.4
+0c85cd29,6/21/2024,P7206,economic,Clothing,2,344.96,C8312,19,Female,Africa,689.92
+305102a8,8/3/2024,P8665,father,Electronics,6,326.05,C4867,61,Other,South America,1956.3
+5bfc3395,6/3/2024,P4695,anything,Clothing,9,283.8,C4707,33,Other,South America,2554.2
+ad29dbd3,1/9/2024,P7475,accept,Groceries,1,484.6,C1477,33,Other,North America,484.6
+5fca4bed,6/19/2024,P3766,adult,Clothing,7,268.57,C5277,34,Female,South America,1879.99
+b1e2f2ac,9/12/2024,P5124,outside,Furniture,7,101.2,C4980,49,Female,North America,708.4
+72bb5d19,7/9/2024,P5253,seven,Clothing,1,184.74,C5179,53,Other,Asia,184.74
+a4a03b76,2/21/2024,P9326,such,Toys,4,328.16,C6510,27,Male,South America,1312.64
+40131451,9/29/2024,P5014,no,Groceries,8,247.7,C2174,23,Female,Europe,1981.6
+196d4784,7/8/2024,P5039,direction,Electronics,5,499.04,C1028,43,Other,South America,2495.2
+7be51cc5,4/24/2024,P6052,apply,Furniture,6,92.43,C9587,49,Male,North America,554.58
+b33d198a,6/27/2024,P6456,thousand,Furniture,10,299.29,C8093,38,Other,North America,2992.9
+606148d1,1/29/2024,P8938,who,Toys,1,384.12,C6478,53,Female,Africa,384.12
+ed7027b5,2/18/2024,P5545,happy,Electronics,5,463.19,C2224,32,Female,Europe,2315.95
+f3d3fa0d,1/15/2024,P9820,look,Electronics,5,187.93,C7410,48,Other,South America,939.65
+4afd904b,2/3/2024,P6575,eye,Groceries,4,401.03,C2060,58,Other,Africa,1604.12
+59f9dc58,4/6/2024,P7872,book,Groceries,1,356.76,C9237,30,Male,North America,356.76
+a536d1ae,5/14/2024,P5567,somebody,Furniture,3,25.61,C9930,37,Male,Europe,76.83
+0299a85e,7/23/2024,P5630,while,Groceries,10,181.13,C9989,41,Male,South America,1811.3
+723d8f72,10/25/2024,P3016,newspaper,Groceries,8,378.5,C5256,61,Male,Europe,3028
+c1624fad,11/26/2024,P6334,suggest,Clothing,7,265.64,C8327,56,Other,Asia,1859.48
+d551ccbe,11/23/2024,P7779,almost,Electronics,6,353.01,C4270,62,Other,Africa,2118.06
+ee4e30d8,1/21/2024,P3175,music,Electronics,9,353.36,C2649,30,Female,Africa,3180.24
+ac9231c0,3/23/2024,P8446,per,Electronics,2,202.25,C1160,25,Other,Asia,404.5
+d4185cd4,11/11/2024,P7647,structure,Electronics,7,151.83,C3132,18,Female,Asia,1062.81
+02c06129,2/6/2024,P8459,physical,Clothing,2,316.65,C3265,46,Other,Europe,633.3
+cb021675,9/16/2024,P4694,political,Electronics,2,311.85,C7313,27,Male,North America,623.7
+38584316,8/8/2024,P3237,music,Groceries,6,405.65,C8044,36,Female,Asia,2433.9
+d4ba6a93,11/21/2024,P4678,democratic,Toys,10,278.3,C9840,24,Other,North America,2783
+65250c99,3/26/2024,P5929,too,Groceries,5,209.53,C1297,26,Other,Europe,1047.65
+c49b5685,5/27/2024,P2647,national,Electronics,10,207.32,C6360,23,Other,Asia,2073.2
+6334d973,4/20/2024,P1686,chance,Electronics,4,124.89,C6343,63,Male,Asia,499.56
+8f2fecc0,6/26/2024,P1024,clear,Electronics,9,107.43,C5248,63,Other,South America,966.87
+c538432e,1/3/2024,P3884,different,Toys,2,364.16,C7938,33,Male,South America,728.32
+6c780da5,1/5/2024,P5366,unit,Clothing,6,157.38,C6398,24,Female,Africa,944.28
+2b24f480,8/7/2024,P1343,save,Furniture,8,295.91,C8259,35,Male,North America,2367.28
+e5d8b466,7/2/2024,P7219,detail,Clothing,3,297.58,C1665,35,Other,North America,892.74
+d729f42c,10/9/2024,P4467,list,Clothing,4,95.22,C5853,60,Female,Africa,380.88
+e3eba024,11/20/2024,P9350,bill,Groceries,8,140.78,C5566,19,Male,North America,1126.24
+c5ed99d3,10/31/2024,P8964,rest,Furniture,6,278.89,C8954,37,Female,Europe,1673.34
+b2e46240,4/7/2024,P4405,PM,Toys,1,215.49,C9530,65,Female,South America,215.49
+5524153e,5/31/2024,P1284,night,Toys,2,100.07,C1228,46,Other,Europe,200.14
+2788d857,10/11/2024,P9041,it,Electronics,8,260.82,C5405,56,Female,Europe,2086.56
+f1a29469,5/22/2024,P2425,step,Electronics,1,131.01,C5135,59,Male,Africa,131.01
+c64412eb,8/5/2024,P2782,air,Clothing,8,413.59,C1298,44,Female,Europe,3308.72
+c959a05e,6/20/2024,P4720,item,Furniture,7,43.4,C4003,62,Other,Europe,303.8
+549bfc15,5/29/2024,P5383,lead,Toys,9,172.7,C5609,47,Male,Asia,1554.3
+00140eb5,10/21/2024,P1308,rest,Furniture,5,472.01,C1120,42,Female,North America,2360.05
+4886db8f,8/3/2024,P1618,real,Toys,9,49.28,C6063,34,Female,South America,443.52
+ef593eec,10/20/2024,P5963,approach,Furniture,1,94.91,C7474,51,Other,South America,94.91
+8b804b75,6/25/2024,P9819,which,Groceries,9,230.32,C6546,26,Other,Africa,2072.88
+1ae88b44,10/19/2024,P8866,fine,Furniture,2,312.3,C2221,31,Other,Asia,624.6
+0e118a2b,11/19/2024,P2899,everyone,Toys,2,198.45,C1608,31,Other,North America,396.9
+1fba102a,1/3/2024,P9961,thus,Furniture,6,296.19,C6212,27,Male,Asia,1777.14
+0c4e410b,8/2/2024,P6684,common,Electronics,5,433.61,C3872,47,Female,Africa,2168.05
+0574e805,5/17/2024,P7724,general,Toys,5,296.33,C7267,38,Other,South America,1481.65
+fdb7e5dd,10/10/2024,P3035,pattern,Clothing,8,406.08,C4410,35,Male,North America,3248.64
+cb013dfb,5/10/2024,P8345,job,Clothing,8,376.43,C2134,28,Female,South America,3011.44
+7e7ce35f,2/13/2024,P2510,read,Toys,6,454.31,C4965,50,Male,South America,2725.86
+6a785035,12/4/2024,P3745,wish,Groceries,6,88.14,C4674,62,Female,Asia,528.84
+4.17E+09,2/25/2024,P8827,past,Groceries,6,343.01,C3512,44,Female,Asia,2058.06
+e7ad2324,6/18/2024,P8970,support,Clothing,1,48.62,C8349,55,Female,North America,48.62
+f77bd39d,2/21/2024,P7538,describe,Groceries,1,455.77,C5430,18,Other,South America,455.77
+aa80ec97,11/19/2024,P2284,late,Toys,6,303.48,C7246,45,Female,South America,1820.88
+ee7d47bf,3/29/2024,P7342,material,Toys,6,356.76,C7783,35,Female,South America,2140.56
+08cd462a,4/13/2024,P1923,boy,Toys,3,478.96,C6552,44,Other,North America,1436.88
+2a7060e9,7/17/2024,P1773,threat,Groceries,1,239.5,C1984,31,Male,Africa,239.5
+a8d1e9ea,7/15/2024,P7151,home,Electronics,7,334.66,C9952,59,Male,North America,2342.62
+392ee475,2/21/2024,P6588,position,Clothing,8,64.97,C2515,23,Female,North America,519.76
+34c653bc,6/2/2024,P5942,account,Furniture,6,383.29,C8699,39,Female,Asia,2299.74
+953e54b5,2/10/2024,P8824,main,Groceries,3,291.98,C8286,64,Female,Asia,875.94
+7d94cfce,7/2/2024,P9791,prepare,Toys,10,388.5,C4010,32,Female,Europe,3885
+849663d4,11/6/2024,P6172,record,Toys,4,400.44,C5668,66,Male,North America,1601.76
+d3811f68,8/19/2024,P4823,lead,Electronics,4,460.23,C7705,44,Other,South America,1840.92
+31efea73,8/14/2024,P8151,common,Toys,6,455.81,C6547,70,Male,Asia,2734.86
+ec3f5434,9/11/2024,P7834,nor,Groceries,10,25,C4185,67,Other,North America,250
+01adbe9d,3/25/2024,P2545,hand,Clothing,1,363.95,C3077,63,Male,North America,363.95
+28ead947,2/14/2024,P2122,author,Electronics,9,261.64,C7265,18,Other,Europe,2354.76
+0cfd8132,5/3/2024,P7117,draw,Groceries,8,394.38,C8929,60,Female,Africa,3155.04
+e7e2672e,3/3/2024,P7901,need,Clothing,2,187.69,C6736,61,Male,South America,375.38
+0385e447,3/30/2024,P4256,buy,Electronics,3,414.53,C7316,47,Other,Asia,1243.59
+18505fb1,3/22/2024,P3870,try,Groceries,10,486.89,C9891,59,Other,Europe,4868.9
+a49279b5,11/18/2024,P2198,quite,Toys,9,305.6,C7059,63,Male,South America,2750.4
+5509b0b8,11/26/2024,P6501,central,Electronics,6,435.69,C1759,20,Male,Europe,2614.14
+4a2426f6,5/20/2024,P4784,behavior,Furniture,3,473.23,C4274,68,Other,Europe,1419.69
+6ae05345,4/8/2024,P9112,add,Electronics,5,269.99,C1107,66,Other,Europe,1349.95
+de8d763f,1/19/2024,P8493,grow,Toys,3,439.23,C8811,69,Other,Europe,1317.69
+4a9d4059,8/28/2024,P2861,new,Groceries,8,265.97,C1085,43,Other,Europe,2127.76
+92d63c62,8/14/2024,P6359,also,Toys,4,199.9,C1088,67,Other,Asia,799.6
+e8efced8,2/20/2024,P8065,again,Groceries,9,91.84,C1239,37,Male,Africa,826.56
+c455613a,6/22/2024,P4000,happy,Furniture,8,490.4,C5133,18,Other,South America,3923.2
+c4b35f31,11/21/2024,P7723,small,Toys,5,499.83,C4054,30,Female,Europe,2499.15
+1b570442,6/15/2024,P3892,with,Clothing,10,447.27,C2613,26,Female,North America,4472.7
+f774b754,4/17/2024,P5403,brother,Groceries,5,464.13,C1724,28,Female,Europe,2320.65
+0592f6f6,1/9/2024,P6578,practice,Groceries,9,349.91,C5128,49,Other,South America,3149.19
+9aafc07e,5/7/2024,P9296,anything,Electronics,5,393.79,C5663,22,Female,Africa,1968.95
+932886b0,11/17/2024,P6914,month,Toys,10,226.26,C2441,70,Male,Africa,2262.6
+462bbf34,2/28/2024,P4636,medical,Electronics,5,335.34,C6548,27,Male,Europe,1676.7
+1b9568c1,8/21/2024,P4636,environmental,Electronics,6,196.1,C4051,22,Female,Asia,1176.6
+ac0541f6,3/6/2024,P8851,growth,Clothing,6,82.97,C7287,26,Male,Asia,497.82
+ab9f6602,4/14/2024,P6966,serious,Furniture,9,414.65,C5557,36,Other,North America,3731.85
+ca8fd56b,9/22/2024,P7839,organization,Furniture,10,82.64,C7521,70,Other,Europe,826.4
+cf1f2ff2,10/25/2024,P4422,without,Groceries,2,317.82,C5436,34,Female,North America,635.64
+7e5d2c05,4/2/2024,P2908,task,Furniture,4,378.93,C8381,59,Female,Europe,1515.72
+6df1f306,12/3/2024,P6319,agreement,Electronics,7,414.72,C2810,30,Other,North America,2903.04
+d55ce083,11/12/2024,P9339,sport,Furniture,5,376.61,C9474,39,Male,South America,1883.05
+9d33485a,8/19/2024,P1238,town,Electronics,6,184.12,C9179,51,Male,Asia,1104.72
+52b139aa,9/13/2024,P2181,page,Clothing,2,489.66,C6289,26,Male,Africa,979.32
+0c5f4f02,2/21/2024,P1870,seem,Clothing,4,300.35,C9689,64,Female,Europe,1201.4
+f2a3342c,8/10/2024,P6582,second,Furniture,1,467.77,C3357,54,Other,Africa,467.77
+b9e05860,10/1/2024,P9445,prove,Groceries,3,445.59,C1519,57,Other,North America,1336.77
+c1ec5c35,11/22/2024,P3523,candidate,Electronics,8,181.65,C7669,64,Female,South America,1453.2
+df39f962,10/8/2024,P3160,despite,Groceries,9,228.83,C5817,52,Female,Asia,2059.47
+41f5f7f7,8/8/2024,P1747,cause,Clothing,9,307.32,C7004,69,Female,South America,2765.88
+6064a22d,8/28/2024,P1507,into,Clothing,7,32.33,C5891,30,Other,Africa,226.31
+6f4e19b0,8/10/2024,P9513,health,Clothing,7,62.32,C3298,26,Other,Asia,436.24
+be52a633,6/29/2024,P3385,star,Furniture,5,314.12,C4586,69,Male,South America,1570.6
+9d4bb3c3,11/29/2024,P4766,finish,Furniture,6,172.49,C5822,27,Male,North America,1034.94
+d7128210,1/15/2024,P1105,provide,Electronics,2,175.42,C1039,19,Female,Africa,350.84
+4995798b,2/15/2024,P4385,service,Electronics,8,417.79,C2793,35,Other,North America,3342.32
+7e91efc5,3/17/2024,P2359,police,Toys,10,252.58,C9225,54,Female,Africa,2525.8
+609805a3,7/5/2024,P3032,play,Clothing,7,149.84,C7204,18,Other,North America,1048.88
+1406de0b,9/21/2024,P1072,else,Clothing,10,225,C6515,58,Female,North America,2250
+acf2d7c9,8/27/2024,P3378,drop,Groceries,2,403.89,C1405,69,Male,South America,807.78
+1c5d1c1a,11/7/2024,P2000,past,Furniture,2,329.09,C4724,67,Other,Africa,658.18
+0d81abce,2/28/2024,P9427,his,Groceries,3,33.13,C6134,47,Other,North America,99.39
+292c3c61,3/28/2024,P2951,green,Groceries,4,344.54,C2107,19,Female,Europe,1378.16
+90ae744b,3/1/2024,P4947,than,Electronics,8,285.61,C2772,60,Male,Africa,2284.88
+8fc1dce0,7/14/2024,P2400,dinner,Furniture,5,412.56,C9501,39,Other,Africa,2062.8
+a5400770,10/2/2024,P7646,onto,Electronics,7,458.56,C7921,68,Female,South America,3209.92
+892dd449,6/4/2024,P4020,Mrs,Electronics,1,284.32,C2941,32,Female,South America,284.32
+451faf2b,1/22/2024,P4430,security,Electronics,2,71.22,C3682,24,Male,Europe,142.44
+f0781b84,1/17/2024,P4091,language,Furniture,9,462.55,C3398,25,Female,South America,4162.95
+45be6868,10/12/2024,P8573,today,Furniture,7,462.97,C1637,30,Other,South America,3240.79
+58bf18a6,10/16/2024,P8802,may,Toys,1,202.8,C8964,53,Female,Asia,202.8
+6df6cbcf,3/12/2024,P3983,piece,Toys,2,212.82,C6031,51,Male,South America,425.64
+ce364765,8/19/2024,P9077,together,Groceries,6,190.68,C3587,21,Female,Asia,1144.08
+f89b8a96,12/1/2024,P2624,specific,Toys,1,172.2,C8322,29,Male,Asia,172.2
+f1fd6943,6/24/2024,P4098,include,Toys,1,211.08,C2323,53,Female,Asia,211.08
+1a7416f2,2/10/2024,P3265,voice,Toys,1,104.27,C5005,70,Male,North America,104.27
+b432fd77,10/19/2024,P6025,project,Toys,9,19.55,C2001,40,Male,Africa,175.95
+e32bb642,8/16/2024,P1596,woman,Clothing,3,142,C9981,34,Male,Asia,426
+826f6dcf,9/5/2024,P2103,team,Toys,8,235.79,C2628,30,Female,South America,1886.32
+2c73de74,6/6/2024,P5531,ability,Furniture,2,97.33,C7229,18,Male,Europe,194.66
+ce18b752,6/26/2024,P4764,into,Electronics,8,473.15,C2907,66,Other,Asia,3785.2
+47de62cc,11/9/2024,P2800,heavy,Toys,6,273.23,C4110,19,Other,Asia,1639.38
+a587b4d1,10/5/2024,P1237,sit,Groceries,9,106.87,C8069,21,Male,Asia,961.83
+6350583d,1/6/2024,P2682,grow,Furniture,3,384.05,C3115,26,Other,Africa,1152.15
+326ac674,7/5/2024,P5449,assume,Toys,6,62.4,C3862,63,Female,North America,374.4
+48ab4122,3/17/2024,P5548,more,Groceries,9,65.33,C6824,67,Female,Europe,587.97
+99813220,8/24/2024,P4944,young,Toys,8,482.28,C5437,40,Female,North America,3858.24
+005da887,11/22/2024,P8596,prepare,Furniture,1,220.94,C6665,58,Other,Asia,220.94
+6324089d,8/9/2024,P7756,daughter,Furniture,2,185.01,C1490,69,Female,Europe,370.02
+13f6c012,3/7/2024,P3372,trade,Furniture,7,97.45,C5387,36,Other,Europe,682.15
+c2d599d5,4/17/2024,P8375,general,Electronics,8,91.51,C1481,61,Male,Asia,732.08
+ac723828,4/12/2024,P7713,very,Groceries,4,83.44,C8031,49,Female,North America,333.76
+8f02483a,1/27/2024,P3428,material,Furniture,7,37.74,C3306,39,Female,South America,264.18
+0faad553,4/23/2024,P3124,American,Electronics,5,319.26,C3531,32,Female,North America,1596.3
+6c817c76,3/20/2024,P3965,base,Furniture,3,295.23,C8791,40,Other,Africa,885.69
+b9856f85,7/27/2024,P8520,whom,Furniture,7,386.82,C6896,33,Male,Europe,2707.74
+5ef51c85,11/22/2024,P7262,goal,Furniture,3,74.8,C7130,45,Other,South America,224.4
+dbcffd20,7/15/2024,P2776,address,Groceries,8,339.28,C4864,32,Female,South America,2714.24
+fd1d9c7c,2/29/2024,P2401,up,Furniture,9,129.51,C1204,19,Female,Africa,1165.59
+7f832c0f,4/20/2024,P1738,explain,Electronics,1,229.43,C6572,48,Female,North America,229.43
+d8eef368,2/19/2024,P5129,hospital,Furniture,10,141.95,C3595,47,Male,Europe,1419.5
+268c0e2c,10/6/2024,P7387,film,Toys,9,319.89,C2082,30,Male,Africa,2879.01
+702648b6,7/14/2024,P8229,nation,Groceries,8,398.71,C7600,42,Male,Europe,3189.68
+dc906181,11/14/2024,P3269,our,Electronics,10,66.75,C4407,53,Other,South America,667.5
+45096c34,7/18/2024,P5204,finish,Electronics,5,302.96,C3472,22,Other,Asia,1514.8
+1a93fafc,9/24/2024,P5062,art,Toys,6,371.39,C6984,62,Male,Africa,2228.34
+23fcf621,1/5/2024,P1850,another,Furniture,8,262.21,C8082,18,Other,South America,2097.68
+eb212937,8/19/2024,P1593,talk,Toys,7,470.79,C3360,65,Female,Africa,3295.53
+91fcece7,5/1/2024,P1297,last,Clothing,5,88.86,C2276,20,Female,Asia,444.3
+b8522b6c,1/28/2024,P2240,stay,Groceries,1,264.95,C2149,69,Male,Europe,264.95
+c004f892,11/19/2024,P2819,in,Electronics,6,489.67,C3328,36,Female,Africa,2938.02
+6ccc8ad3,8/11/2024,P2964,lay,Toys,6,147.12,C4225,70,Male,North America,882.72
+56ba97b6,2/25/2024,P7745,east,Groceries,8,147,C2795,47,Female,Africa,1176
+d2465e4d,5/10/2024,P4929,recently,Electronics,4,328.44,C7322,23,Other,Asia,1313.76
+776a217b,2/10/2024,P5105,street,Clothing,6,146.54,C9806,65,Other,South America,879.24
+c107365d,3/31/2024,P4643,stuff,Furniture,2,325.78,C4725,70,Female,Europe,651.56
+b24b0b5c,6/15/2024,P8609,own,Furniture,1,239.94,C2685,70,Male,Asia,239.94
+3e5f1be3,5/29/2024,P8872,choice,Furniture,5,270.35,C9050,33,Male,Europe,1351.75
+bd919bca,2/19/2024,P3142,city,Groceries,10,427.82,C7898,44,Male,Europe,4278.2
+140dd124,2/1/2024,P9246,film,Electronics,6,458.08,C2559,67,Other,North America,2748.48
+d12ae828,2/14/2024,P6150,notice,Electronics,3,198.97,C8312,66,Male,South America,596.91
+80a5c7cf,8/2/2024,P8774,society,Furniture,7,463.25,C7285,64,Female,North America,3242.75
+24db35da,10/20/2024,P5455,lose,Furniture,9,314.64,C2931,62,Other,North America,2831.76
+4146b24e,11/15/2024,P2749,letter,Clothing,5,351.67,C5593,55,Female,Europe,1758.35
+fcdfc22b,10/16/2024,P9930,interesting,Furniture,9,101.56,C3452,54,Female,North America,914.04
+697d33db,1/17/2024,P7659,number,Groceries,10,79.25,C5564,42,Other,Asia,792.5
+647b059c,9/9/2024,P1976,wonder,Clothing,9,341.74,C1295,49,Other,North America,3075.66
+a2a07ff5,10/9/2024,P9919,allow,Groceries,10,205.7,C1453,68,Other,Asia,2057
+241f8711,7/30/2024,P8355,claim,Groceries,9,232.88,C7025,37,Other,South America,2095.92
+b5df9f0b,4/26/2024,P5060,stay,Groceries,1,12.29,C7516,44,Female,Asia,12.29
+6cb3b07f,7/21/2024,P3330,art,Electronics,5,354.42,C6529,66,Female,North America,1772.1
+b86d1c25,1/2/2024,P7860,yard,Groceries,10,351.42,C2461,25,Other,South America,3514.2
+4b2277e9,3/27/2024,P3598,fear,Furniture,6,193.14,C7566,46,Other,South America,1158.84
+338b1cf7,6/25/2024,P2987,owner,Toys,8,358.95,C9669,25,Female,Africa,2871.6
+4211bd0d,3/22/2024,P9394,night,Groceries,2,116.32,C8311,57,Other,Europe,232.64
+763079cd,11/1/2024,P7430,term,Toys,7,197.26,C3091,41,Other,North America,1380.82
+42a7c445,5/18/2024,P8685,authority,Furniture,2,134.99,C7098,51,Female,North America,269.98
+07437eb3,4/9/2024,P5547,memory,Furniture,5,486.63,C3169,30,Male,Asia,2433.15
+ba3df969,5/9/2024,P9106,newspaper,Clothing,3,220.05,C2181,42,Other,North America,660.15
+68204cda,6/27/2024,P6582,home,Electronics,9,394.6,C1993,40,Male,Europe,3551.4
+299ecca2,8/2/2024,P9166,world,Electronics,9,120.15,C3321,47,Female,Europe,1081.35
+8bd4fa5c,12/2/2024,P2889,unit,Clothing,1,112.28,C4768,27,Male,Europe,112.28
+acded477,2/27/2024,P4691,ask,Clothing,3,67.9,C5059,67,Other,Africa,203.7
+349c02f0,8/3/2024,P5501,against,Groceries,9,132.73,C6863,37,Male,Europe,1194.57
+326e5ec0,6/22/2024,P4469,what,Toys,4,407.51,C9192,39,Female,Africa,1630.04
+97dbefc1,7/11/2024,P1347,between,Electronics,9,300,C2399,65,Male,South America,2700
+599756ac,12/1/2024,P3727,capital,Furniture,1,101.04,C6304,50,Other,Asia,101.04
+8b48f2d3,8/16/2024,P5400,sign,Toys,8,288.62,C2367,51,Female,South America,2308.96
+083809ae,4/11/2024,P6236,month,Groceries,5,208.04,C4332,65,Female,Europe,1040.2
+8bc629b6,10/27/2024,P1814,floor,Groceries,2,51.45,C4542,40,Male,Europe,102.9
+af103c17,7/3/2024,P4902,five,Furniture,9,288.87,C7222,31,Male,South America,2599.83
+893980fe,8/27/2024,P7565,him,Clothing,6,219.54,C5444,57,Other,North America,1317.24
+95d7728f,8/2/2024,P6169,minute,Electronics,8,314.73,C7299,43,Other,South America,2517.84
+3797faf5,3/20/2024,P1915,number,Clothing,6,265.99,C9669,33,Female,Europe,1595.94
+f9f1649d,3/21/2024,P7477,may,Groceries,8,315.81,C8927,35,Other,Asia,2526.48
+6a3edf12,6/28/2024,P3286,threat,Electronics,3,242.78,C4600,55,Female,Asia,728.34
+36ebb1d4,5/26/2024,P9270,stock,Electronics,5,84.02,C4284,46,Male,Europe,420.1
+ab56b82c,8/31/2024,P5433,across,Groceries,6,426.39,C9356,32,Other,Asia,2558.34
+4e838a5c,1/13/2024,P2765,certainly,Clothing,4,253.53,C2315,21,Other,Asia,1014.12
+e4a40855,7/19/2024,P9910,third,Groceries,7,362.47,C5424,68,Other,Asia,2537.29
+d0517944,4/4/2024,P4217,morning,Clothing,7,466.63,C8939,42,Female,Africa,3266.41
+66d2da62,8/1/2024,P8768,Mr,Toys,3,177.1,C3957,64,Other,South America,531.3
+56b743ee,1/9/2024,P4812,benefit,Groceries,3,476.25,C6973,35,Female,Africa,1428.75
+ee6c90f8,11/13/2024,P5216,big,Clothing,10,296.31,C1314,56,Other,South America,2963.1
+af4b31d1,11/22/2024,P6144,collection,Electronics,7,138.28,C8654,28,Other,South America,967.96
+f780132c,5/5/2024,P2954,decision,Furniture,1,240.28,C7617,32,Male,Asia,240.28
+50527070,10/11/2024,P8741,determine,Clothing,10,194.93,C4235,70,Male,Africa,1949.3
+48a7b6f9,11/15/2024,P2280,American,Furniture,4,35.19,C2795,33,Other,Africa,140.76
+adcfba2e,2/26/2024,P8902,this,Clothing,2,135.51,C4557,53,Other,Africa,271.02
+269088fc,11/20/2024,P4305,man,Groceries,3,270.43,C5390,60,Other,Asia,811.29
+587e82c2,4/10/2024,P6897,thought,Groceries,1,416.49,C6202,19,Female,Asia,416.49
+41e5f2e8,10/5/2024,P6719,wonder,Groceries,6,244.18,C1481,29,Male,North America,1465.08
+d8d0227f,7/30/2024,P7863,hand,Toys,7,481.43,C6137,25,Male,North America,3370.01
+26d9013e,10/30/2024,P1325,night,Electronics,3,432.13,C4269,21,Male,Asia,1296.39
+4aa93cd8,9/22/2024,P7072,decision,Toys,10,376.03,C7102,53,Male,North America,3760.3
+693e4998,10/11/2024,P5810,other,Toys,3,341.99,C5142,59,Other,Asia,1025.97
+9092d58c,10/16/2024,P6812,able,Furniture,4,425.91,C5775,44,Male,Africa,1703.64
+b00d8d93,7/20/2024,P3767,health,Groceries,6,135.39,C8359,56,Male,North America,812.34
+aab99665,5/28/2024,P4312,class,Toys,6,85.18,C8695,43,Male,North America,511.08
+35ab6826,9/18/2024,P5492,future,Electronics,8,180.12,C9072,33,Other,Europe,1440.96
+b7ae49ba,11/27/2024,P8356,particularly,Clothing,9,495.33,C7504,42,Other,South America,4457.97
+dfa24400,6/1/2024,P9670,reach,Groceries,4,125.58,C8269,37,Male,Asia,502.32
+485c6508,11/16/2024,P9243,yeah,Clothing,3,224.38,C1552,38,Female,Europe,673.14
+b70c3a0e,9/24/2024,P8318,pass,Furniture,10,314.15,C9824,61,Female,Africa,3141.5
+961c22ea,11/24/2024,P8809,turn,Clothing,3,361.84,C5127,63,Female,South America,1085.52
+e9fefd4e,2/11/2024,P6786,into,Electronics,6,325.15,C3870,33,Female,Asia,1950.9
+fb39a747,11/3/2024,P5505,event,Furniture,4,308.33,C8596,32,Male,Europe,1233.32
+fd2ff25c,9/7/2024,P7517,tax,Groceries,2,106.93,C7298,31,Male,Europe,213.86
+a39033c8,4/4/2024,P8060,author,Clothing,9,362.47,C7940,68,Other,Africa,3262.23
+5e71bb78,3/28/2024,P9792,soldier,Groceries,2,497.32,C1265,61,Male,Europe,994.64
+f579dcd2,3/13/2024,P7876,far,Furniture,5,49.32,C9124,19,Female,South America,246.6
+eb7617a8,11/13/2024,P1012,performance,Toys,5,261.25,C1866,43,Female,North America,1306.25
+b61de492,7/12/2024,P9842,authority,Clothing,1,11.69,C7630,18,Other,North America,11.69
+c617aa5e,7/5/2024,P7799,policy,Furniture,4,437.86,C4041,43,Male,Africa,1751.44
+67114d7b,8/27/2024,P8084,against,Furniture,10,20.04,C8977,53,Male,North America,200.4
+209deded,5/24/2024,P7295,talk,Furniture,9,452.08,C6066,27,Other,Europe,4068.72
+83b3f378,8/6/2024,P9455,eye,Toys,10,236.06,C4484,43,Other,Europe,2360.6
+5b344b94,1/4/2024,P2715,Republican,Electronics,1,99.67,C2164,69,Female,Asia,99.67
+aa4b9a48,2/9/2024,P5349,thus,Toys,5,337.31,C8476,29,Other,Asia,1686.55
+5e1e28d9,8/19/2024,P7169,sign,Electronics,1,398.96,C5237,28,Female,North America,398.96
+94ed4644,10/28/2024,P6727,interesting,Groceries,1,27.71,C8814,30,Other,Africa,27.71
+8e8a4419,1/15/2024,P5859,help,Groceries,2,209.33,C5569,34,Male,Europe,418.66
+06a23823,1/29/2024,P2478,magazine,Clothing,2,153.31,C2928,26,Male,Asia,306.62
+05d4ad0c,1/24/2024,P4411,carry,Toys,6,26.59,C9897,33,Other,Europe,159.54
+f8518d5b,1/22/2024,P4493,toward,Clothing,10,286.02,C7617,26,Female,North America,2860.2
+09f39162,5/10/2024,P7143,standard,Groceries,3,272.15,C4884,61,Other,North America,816.45
+20a0c0e5,11/14/2024,P7320,box,Electronics,4,290.52,C6381,45,Other,South America,1162.08
+166778c5,9/23/2024,P7792,number,Groceries,1,141.21,C5023,18,Other,Asia,141.21
+f7a7a150,6/26/2024,P4194,appear,Toys,2,247.36,C2733,38,Male,Europe,494.72
+14e7200f,2/5/2024,P6810,nor,Toys,4,131.39,C8359,21,Female,South America,525.56
+2b05a588,2/13/2024,P3298,institution,Electronics,5,186.15,C8239,27,Female,Africa,930.75
+6919f4c7,11/20/2024,P2007,top,Clothing,9,427.06,C6696,32,Female,Africa,3843.54
+fd750f2a,3/4/2024,P7495,company,Furniture,5,439.83,C6142,25,Other,Europe,2199.15
+481138d4,4/18/2024,P7443,put,Toys,5,457.14,C6114,29,Male,North America,2285.7
+7f699335,10/26/2024,P2789,such,Electronics,4,378.43,C2311,69,Male,South America,1513.72
+a30faa84,6/6/2024,P6359,turn,Furniture,4,51.13,C2978,59,Female,Asia,204.52
+1048ab5a,8/9/2024,P1378,guy,Clothing,7,172.35,C6038,61,Female,Asia,1206.45
+70fa0868,7/24/2024,P1497,may,Toys,7,407.25,C3783,61,Female,Europe,2850.75
+9f81f088,1/11/2024,P5364,indicate,Clothing,3,82.01,C1699,30,Female,Europe,246.03
+690e8fa1,11/26/2024,P3607,understand,Groceries,9,77.81,C3836,69,Female,South America,700.29
+496ee418,8/6/2024,P8224,spend,Groceries,5,350.67,C7029,69,Male,Africa,1753.35
+4ca86bff,11/30/2024,P5463,pick,Electronics,10,487.66,C3634,41,Male,South America,4876.6
+271bd686,4/9/2024,P5343,green,Clothing,7,51.8,C1554,60,Other,Africa,362.6
+bc3c9376,3/31/2024,P5100,church,Furniture,5,252.92,C5712,41,Other,Africa,1264.6
+a0acb598,8/26/2024,P4854,factor,Furniture,9,259.99,C9874,52,Male,Europe,2339.91
+f5cc492c,11/8/2024,P9425,worker,Furniture,5,331.43,C9838,30,Male,Europe,1657.15
+515b9e39,7/20/2024,P6991,thought,Electronics,7,193.79,C2136,39,Female,Europe,1356.53
+c7c205b9,2/6/2024,P7264,night,Toys,1,449.21,C7159,25,Other,North America,449.21
+843ddd9e,2/28/2024,P1378,apply,Groceries,9,42.13,C2678,33,Female,North America,379.17
+96a76321,8/11/2024,P7376,mother,Electronics,5,404.82,C2397,64,Female,Asia,2024.1
+5142d206,7/11/2024,P8202,traditional,Clothing,2,440.83,C1283,28,Male,South America,881.66
+8a676cb2,7/26/2024,P6923,check,Furniture,6,150.24,C8423,33,Male,Europe,901.44
+a99d91c6,7/14/2024,P2626,enter,Clothing,5,278.43,C8235,35,Male,Asia,1392.15
+7c8db8fc,5/21/2024,P3545,order,Electronics,5,251.78,C5569,58,Male,Europe,1258.9
+aa3d8baf,6/4/2024,P8526,data,Furniture,4,166.49,C1453,19,Other,Europe,665.96
+0e823258,1/25/2024,P3305,everybody,Toys,5,491.35,C8338,31,Female,North America,2456.75
+8c55671e,7/23/2024,P8321,perform,Groceries,7,50.68,C8723,36,Male,Africa,354.76
+5f8d248c,10/25/2024,P7752,despite,Toys,7,360.68,C4264,32,Male,Europe,2524.76
+462a7753,1/16/2024,P5737,a,Clothing,5,170.33,C4971,30,Male,North America,851.65
+12f89b37,6/30/2024,P1993,play,Electronics,6,316.21,C6318,44,Other,South America,1897.26
+4b00608f,10/28/2024,P7278,sing,Clothing,3,366.17,C5502,28,Other,South America,1098.51
+a2e4a35d,8/8/2024,P2058,development,Toys,10,160.91,C1183,59,Male,Asia,1609.1
+7a2c4ac9,11/22/2024,P4927,agree,Electronics,3,330.71,C3788,53,Other,Europe,992.13
+18ea1c84,2/29/2024,P6421,fish,Furniture,5,113.29,C2307,39,Other,South America,566.45
+7302597b,7/28/2024,P5794,weight,Electronics,1,482.58,C6317,45,Male,Africa,482.58
+ab71a79b,4/8/2024,P6601,baby,Toys,8,58.2,C7235,31,Other,Africa,465.6
+1fd6f78c,11/12/2024,P4572,foot,Clothing,9,82.73,C6075,23,Other,North America,744.57
+2b36af3f,9/23/2024,P9681,Congress,Toys,3,289.4,C6683,31,Female,South America,868.2
+d6bd0355,4/2/2024,P9451,character,Furniture,7,239.43,C9574,55,Male,Asia,1676.01
+0b4517ae,9/1/2024,P7681,authority,Clothing,9,51.47,C2768,18,Other,Asia,463.23
+974ce4fb,2/21/2024,P3602,deep,Clothing,10,196.9,C9169,59,Other,Africa,1969
+4395e9df,1/31/2024,P8332,machine,Electronics,1,68.64,C9976,55,Other,Africa,68.64
+b038e8e8,7/12/2024,P1043,affect,Electronics,7,286.24,C5353,54,Female,South America,2003.68
+85953e5c,2/8/2024,P2760,staff,Furniture,8,286.51,C1387,23,Other,Africa,2292.08
+e4f0a327,2/26/2024,P2378,remember,Electronics,9,299.02,C6881,64,Female,North America,2691.18
+7d74d76d,10/6/2024,P5871,animal,Toys,9,57.12,C8653,33,Male,Asia,514.08
+6e46736b,1/30/2024,P5794,ago,Toys,1,115.67,C8901,27,Other,North America,115.67
+84233a97,8/21/2024,P4579,little,Toys,2,155.38,C7268,28,Other,Africa,310.76
+c0dc7f56,12/1/2024,P2978,bring,Furniture,8,220.33,C8287,38,Other,Europe,1762.64
+0a60f1be,11/12/2024,P1289,seem,Groceries,7,46.64,C9800,41,Male,Asia,326.48
+f95c8d07,9/5/2024,P3812,need,Clothing,2,465.86,C2570,63,Female,Europe,931.72
+933483a7,11/6/2024,P4997,group,Toys,4,432.89,C4191,18,Male,Asia,1731.56
+32de1ef8,2/1/2024,P4496,impact,Toys,10,435.26,C7465,41,Female,Asia,4352.6
+87792dd0,10/8/2024,P1795,language,Clothing,2,50.81,C3755,21,Female,South America,101.62
+6c45b8a9,11/27/2024,P3982,away,Clothing,1,218.99,C9947,68,Other,South America,218.99
+d2887cd2,2/21/2024,P3261,big,Electronics,3,18.61,C4827,62,Male,Africa,55.83
+65a15516,10/16/2024,P8429,face,Furniture,5,54.19,C6459,59,Other,Africa,270.95
+7724d613,3/12/2024,P3679,top,Toys,9,96.11,C3865,23,Other,Africa,864.99
